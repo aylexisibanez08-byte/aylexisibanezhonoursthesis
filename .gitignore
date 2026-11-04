@@ -1,0 +1,19 @@
+# Raw inputs and generated artefacts are large and/or licensed — keep them out of git.
+data/raw/
+data/processed/
+figures/
+reports/
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

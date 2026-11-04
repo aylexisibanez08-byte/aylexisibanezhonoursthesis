@@ -1,0 +1,1143 @@
+sa2,sa2_name,entry_id,share,rule,donor_sa2,donor_dist_m
+101021007,Braidwood,E13,0.5,nearest_boundary_sa2,117021328,212019
+101021007,Braidwood,E12,0.5,nearest_boundary_sa2,117021328,212019
+101021008,Karabar,E11,0.25,nearest_boundary_sa2,117021326,239707
+101021008,Karabar,E10,0.25,nearest_boundary_sa2,117021326,239707
+101021008,Karabar,E09,0.25,nearest_boundary_sa2,117021326,239707
+101021008,Karabar,E08,0.25,nearest_boundary_sa2,117021326,239707
+101021009,Queanbeyan,E11,0.25,nearest_boundary_sa2,117021326,238351
+101021009,Queanbeyan,E10,0.25,nearest_boundary_sa2,117021326,238351
+101021009,Queanbeyan,E09,0.25,nearest_boundary_sa2,117021326,238351
+101021009,Queanbeyan,E08,0.25,nearest_boundary_sa2,117021326,238351
+101021010,Queanbeyan - East,E11,0.25,nearest_boundary_sa2,117021326,236838
+101021010,Queanbeyan - East,E10,0.25,nearest_boundary_sa2,117021326,236838
+101021010,Queanbeyan - East,E09,0.25,nearest_boundary_sa2,117021326,236838
+101021010,Queanbeyan - East,E08,0.25,nearest_boundary_sa2,117021326,236838
+101021011,Queanbeyan Region,E11,0.25,nearest_boundary_sa2,117021326,234684
+101021011,Queanbeyan Region,E10,0.25,nearest_boundary_sa2,117021326,234684
+101021011,Queanbeyan Region,E09,0.25,nearest_boundary_sa2,117021326,234684
+101021011,Queanbeyan Region,E08,0.25,nearest_boundary_sa2,117021326,234684
+101021012,Queanbeyan West - Jerrabomberra,E11,0.25,nearest_boundary_sa2,117021326,241845
+101021012,Queanbeyan West - Jerrabomberra,E10,0.25,nearest_boundary_sa2,117021326,241845
+101021012,Queanbeyan West - Jerrabomberra,E09,0.25,nearest_boundary_sa2,117021326,241845
+101021012,Queanbeyan West - Jerrabomberra,E08,0.25,nearest_boundary_sa2,117021326,241845
+101031013,Bombala,E13,0.5,nearest_boundary_sa2,117021328,381042
+101031013,Bombala,E12,0.5,nearest_boundary_sa2,117021328,381042
+101031014,Cooma,E13,0.5,nearest_boundary_sa2,117021328,319213
+101031014,Cooma,E12,0.5,nearest_boundary_sa2,117021328,319213
+101031015,Cooma Region,E13,0.5,nearest_boundary_sa2,117021328,310359
+101031015,Cooma Region,E12,0.5,nearest_boundary_sa2,117021328,310359
+101031016,Jindabyne - Berridale,E13,0.5,nearest_boundary_sa2,117021328,368568
+101031016,Jindabyne - Berridale,E12,0.5,nearest_boundary_sa2,117021328,368568
+101041017,Batemans Bay,E13,0.5,nearest_boundary_sa2,117021328,217573
+101041017,Batemans Bay,E12,0.5,nearest_boundary_sa2,117021328,217573
+101041018,Batemans Bay - South,E13,0.5,nearest_boundary_sa2,117021328,224936
+101041018,Batemans Bay - South,E12,0.5,nearest_boundary_sa2,117021328,224936
+101041019,Bega - Tathra,E13,0.5,nearest_boundary_sa2,117021328,332376
+101041019,Bega - Tathra,E12,0.5,nearest_boundary_sa2,117021328,332376
+101041020,Bega-Eden Hinterland,E13,0.5,nearest_boundary_sa2,117021328,359389
+101041020,Bega-Eden Hinterland,E12,0.5,nearest_boundary_sa2,117021328,359389
+101041021,Broulee - Tomakin,E13,0.5,nearest_boundary_sa2,117021328,233015
+101041021,Broulee - Tomakin,E12,0.5,nearest_boundary_sa2,117021328,233015
+101041022,Deua - Wadbilliga,E13,0.5,nearest_boundary_sa2,117021328,282425
+101041022,Deua - Wadbilliga,E12,0.5,nearest_boundary_sa2,117021328,282425
+101041023,Eden,E17,0.25,nearest_boundary_sa2,117011322,364742
+101041023,Eden,E16,0.25,nearest_boundary_sa2,117011322,364742
+101041023,Eden,E15,0.25,nearest_boundary_sa2,117011322,364742
+101041023,Eden,E14,0.25,nearest_boundary_sa2,117011322,364742
+101041024,Eurobodalla Hinterland,E13,0.5,nearest_boundary_sa2,117021328,229202
+101041024,Eurobodalla Hinterland,E12,0.5,nearest_boundary_sa2,117021328,229202
+101041025,Merimbula - Tura Beach,E13,0.5,nearest_boundary_sa2,117021328,351271
+101041025,Merimbula - Tura Beach,E12,0.5,nearest_boundary_sa2,117021328,351271
+101041026,Moruya - Tuross Head,E13,0.5,nearest_boundary_sa2,117021328,245286
+101041026,Moruya - Tuross Head,E12,0.5,nearest_boundary_sa2,117021328,245286
+101041027,Narooma - Bermagui,E13,0.5,nearest_boundary_sa2,117021328,284106
+101041027,Narooma - Bermagui,E12,0.5,nearest_boundary_sa2,117021328,284106
+101051539,Goulburn,E11,0.25,nearest_boundary_sa2,117021326,161542
+101051539,Goulburn,E10,0.25,nearest_boundary_sa2,117021326,161542
+101051539,Goulburn,E09,0.25,nearest_boundary_sa2,117021326,161542
+101051539,Goulburn,E08,0.25,nearest_boundary_sa2,117021326,161542
+101051540,Goulburn Region,E11,0.25,nearest_boundary_sa2,117021326,157688
+101051540,Goulburn Region,E10,0.25,nearest_boundary_sa2,117021326,157688
+101051540,Goulburn Region,E09,0.25,nearest_boundary_sa2,117021326,157688
+101051540,Goulburn Region,E08,0.25,nearest_boundary_sa2,117021326,157688
+101061541,Yass,E11,0.25,nearest_boundary_sa2,117021326,229186
+101061541,Yass,E10,0.25,nearest_boundary_sa2,117021326,229186
+101061541,Yass,E09,0.25,nearest_boundary_sa2,117021326,229186
+101061541,Yass,E08,0.25,nearest_boundary_sa2,117021326,229186
+101061542,Yass Region,E11,0.25,nearest_boundary_sa2,117021326,233688
+101061542,Yass Region,E10,0.25,nearest_boundary_sa2,117021326,233688
+101061542,Yass Region,E09,0.25,nearest_boundary_sa2,117021326,233688
+101061542,Yass Region,E08,0.25,nearest_boundary_sa2,117021326,233688
+101061543,Young,E11,0.25,nearest_boundary_sa2,117021326,261978
+101061543,Young,E10,0.25,nearest_boundary_sa2,117021326,261978
+101061543,Young,E09,0.25,nearest_boundary_sa2,117021326,261978
+101061543,Young,E08,0.25,nearest_boundary_sa2,117021326,261978
+101061544,Young Region,E11,0.25,nearest_boundary_sa2,117021326,248854
+101061544,Young Region,E10,0.25,nearest_boundary_sa2,117021326,248854
+101061544,Young Region,E09,0.25,nearest_boundary_sa2,117021326,248854
+101061544,Young Region,E08,0.25,nearest_boundary_sa2,117021326,248854
+102011028,Avoca Beach - Copacabana,E01,1.0,nearest_boundary_sa2,121041415,42912
+102011029,Box Head - MacMasters Beach,E01,1.0,nearest_boundary_sa2,121041415,37928
+102011030,Calga - Kulnura,E01,1.0,nearest_boundary_sa2,121011400,53600
+102011031,Erina - Green Point,E01,1.0,nearest_boundary_sa2,121041415,47434
+102011032,Gosford - Springfield,E01,1.0,nearest_boundary_sa2,121041415,45909
+102011033,Kariong,E01,1.0,nearest_boundary_sa2,121041415,43541
+102011034,Kincumber - Picketts Valley,E01,1.0,nearest_boundary_sa2,121041415,42558
+102011035,Narara,E01,1.0,nearest_boundary_sa2,121041415,48855
+102011036,Niagara Park - Lisarow,E01,1.0,nearest_boundary_sa2,121041415,50864
+102011037,Point Clare - Koolewong,E01,1.0,nearest_boundary_sa2,121041415,42867
+102011038,Saratoga - Davistown,E01,1.0,nearest_boundary_sa2,121041415,40467
+102011039,Terrigal - North Avoca,E01,1.0,nearest_boundary_sa2,121041415,45956
+102011040,Umina - Booker Bay - Patonga,E01,1.0,nearest_boundary_sa2,121041415,33714
+102011041,Wamberal - Forresters Beach,E01,1.0,nearest_boundary_sa2,121041415,50358
+102011042,Woy Woy - Blackwall,E01,1.0,nearest_boundary_sa2,121041415,38655
+102011043,Wyoming,E01,1.0,nearest_boundary_sa2,121041415,48463
+102021044,Bateau Bay - Killarney Vale,E01,1.0,nearest_boundary_sa2,121041415,54072
+102021045,Blue Haven - San Remo,E01,1.0,nearest_boundary_sa2,121041415,74173
+102021046,Budgewoi - Buff Point - Halekulani,E01,1.0,nearest_boundary_sa2,121041415,73119
+102021047,Chittaway Bay - Tumbi Umbi,E01,1.0,nearest_boundary_sa2,121041415,55446
+102021048,Gorokan - Kanwal - Charmhaven,E01,1.0,nearest_boundary_sa2,121041415,67606
+102021049,Jilliby - Yarramalong,E01,1.0,nearest_boundary_sa2,121041413,73303
+102021050,Lake Munmorah - Mannering Park,E01,1.0,nearest_boundary_sa2,121041415,78393
+102021051,Ourimbah - Fountaindale,E01,1.0,nearest_boundary_sa2,121041415,57608
+102021052,Summerland Point - Gwandalan,E01,1.0,nearest_boundary_sa2,121041415,82486
+102021053,The Entrance,E01,1.0,nearest_boundary_sa2,121041415,60864
+102021054,Toukley - Norah Head,E01,1.0,nearest_boundary_sa2,121041415,68172
+102021055,Tuggerah - Kangy Angy,E01,1.0,nearest_boundary_sa2,121041415,60320
+102021056,Warnervale - Wadalba,E01,1.0,nearest_boundary_sa2,121041415,68211
+102021057,Wyong,E01,1.0,nearest_boundary_sa2,121041415,63924
+103011058,Bathurst,E01,1.0,nearest_boundary_sa2,121011400,156140
+103011059,Bathurst - East,E01,1.0,nearest_boundary_sa2,121011400,149382
+103011060,Bathurst Region,E01,1.0,nearest_boundary_sa2,121011400,157099
+103011061,Oberon,E11,0.25,nearest_boundary_sa2,117021326,127376
+103011061,Oberon,E10,0.25,nearest_boundary_sa2,117021326,127376
+103011061,Oberon,E09,0.25,nearest_boundary_sa2,117021326,127376
+103011061,Oberon,E08,0.25,nearest_boundary_sa2,117021326,127376
+103021062,Condobolin,E01,1.0,nearest_boundary_sa2,121011400,397015
+103021063,Cowra,E11,0.25,nearest_boundary_sa2,117021326,230740
+103021063,Cowra,E10,0.25,nearest_boundary_sa2,117021326,230740
+103021063,Cowra,E09,0.25,nearest_boundary_sa2,117021326,230740
+103021063,Cowra,E08,0.25,nearest_boundary_sa2,117021326,230740
+103021064,Cowra Region,E11,0.25,nearest_boundary_sa2,117021326,229187
+103021064,Cowra Region,E10,0.25,nearest_boundary_sa2,117021326,229187
+103021064,Cowra Region,E09,0.25,nearest_boundary_sa2,117021326,229187
+103021064,Cowra Region,E08,0.25,nearest_boundary_sa2,117021326,229187
+103021065,Forbes,E01,1.0,nearest_boundary_sa2,121011400,302766
+103021066,Grenfell,E11,0.25,nearest_boundary_sa2,117021326,288864
+103021066,Grenfell,E10,0.25,nearest_boundary_sa2,117021326,288864
+103021066,Grenfell,E09,0.25,nearest_boundary_sa2,117021326,288864
+103021066,Grenfell,E08,0.25,nearest_boundary_sa2,117021326,288864
+103021067,Parkes (NSW),E01,1.0,nearest_boundary_sa2,121011400,285307
+103021068,Parkes Region,E01,1.0,nearest_boundary_sa2,121011400,309315
+103021069,West Wyalong,E11,0.25,nearest_boundary_sa2,117021326,384922
+103021069,West Wyalong,E10,0.25,nearest_boundary_sa2,117021326,384922
+103021069,West Wyalong,E09,0.25,nearest_boundary_sa2,117021326,384922
+103021069,West Wyalong,E08,0.25,nearest_boundary_sa2,117021326,384922
+103031070,Lithgow,E01,1.0,nearest_boundary_sa2,121011400,103728
+103031071,Lithgow Region,E01,1.0,nearest_boundary_sa2,121011400,118120
+103031072,Mudgee,E01,1.0,nearest_boundary_sa2,121011400,198873
+103031073,Mudgee Region - East,E01,1.0,nearest_boundary_sa2,121011400,159530
+103031074,Mudgee Region - West,E01,1.0,nearest_boundary_sa2,121011400,218288
+103031075,Wollangambe - Wollemi,E01,1.0,nearest_boundary_sa2,121011400,103234
+103041076,Blayney,E01,1.0,nearest_boundary_sa2,121011400,188613
+103041077,Orange,E01,1.0,nearest_boundary_sa2,121011400,198940
+103041078,Orange - North,E01,1.0,nearest_boundary_sa2,121011400,199583
+103041079,Orange Region,E01,1.0,nearest_boundary_sa2,121011400,227811
+104011080,Grafton,E01,1.0,nearest_boundary_sa2,121041415,488538
+104011081,Grafton Region,E01,1.0,nearest_boundary_sa2,121041415,487269
+104011082,Maclean - Yamba - Iluka,E01,1.0,nearest_boundary_sa2,121041415,526213
+104021083,Bellingen,E01,1.0,nearest_boundary_sa2,121041415,400788
+104021084,Coffs Harbour - North,E01,1.0,nearest_boundary_sa2,121041415,431558
+104021085,Coffs Harbour - South,E01,1.0,nearest_boundary_sa2,121041415,427871
+104021086,Coramba - Nana Glen - Bucca,E01,1.0,nearest_boundary_sa2,121041415,436451
+104021087,Dorrigo,E01,1.0,nearest_boundary_sa2,121041415,422415
+104021088,Korora - Emerald Beach,E01,1.0,nearest_boundary_sa2,121041415,440713
+104021089,Sawtell - Boambee,E01,1.0,nearest_boundary_sa2,121041415,419411
+104021090,Urunga,E01,1.0,nearest_boundary_sa2,121041415,406365
+104021091,Woolgoolga - Arrawarra,E01,1.0,nearest_boundary_sa2,121041415,459943
+105011092,Bourke - Brewarrina,E01,1.0,nearest_boundary_sa2,121011400,671345
+105011093,Cobar,E01,1.0,nearest_boundary_sa2,121011400,573089
+105011094,Coonamble,E01,1.0,nearest_boundary_sa2,121011400,419720
+105011095,Nyngan - Warren,E01,1.0,nearest_boundary_sa2,121011400,464605
+105011096,Walgett - Lightning Ridge,E01,1.0,nearest_boundary_sa2,121011400,537870
+105021097,Broken Hill,E01,1.0,nearest_boundary_sa2,121011400,928006
+105021098,Far West,E01,1.0,nearest_boundary_sa2,121011400,848334
+105031099,Coonabarabran,E01,1.0,nearest_boundary_sa2,121011400,319981
+105031100,Dubbo - East,E01,1.0,nearest_boundary_sa2,121011400,291165
+105031101,Dubbo - South,E01,1.0,nearest_boundary_sa2,121011400,292997
+105031102,Dubbo - West,E01,1.0,nearest_boundary_sa2,121011400,298868
+105031103,Dubbo Region,E01,1.0,nearest_boundary_sa2,121011400,287763
+105031104,Gilgandra,E01,1.0,nearest_boundary_sa2,121011400,340241
+105031105,Narromine,E01,1.0,nearest_boundary_sa2,121011400,342884
+105031106,Wellington,E01,1.0,nearest_boundary_sa2,121011400,242705
+106011107,Branxton - Greta - Pokolbin,E01,1.0,nearest_boundary_sa2,121011400,124507
+106011108,Cessnock,E01,1.0,nearest_boundary_sa2,121041413,111372
+106011109,Cessnock Region,E01,1.0,nearest_boundary_sa2,121011400,95546
+106011110,Dungog,E01,1.0,nearest_boundary_sa2,121041415,167967
+106011111,Kurri Kurri - Abermain,E01,1.0,nearest_boundary_sa2,121041415,116109
+106011112,Singleton,E01,1.0,nearest_boundary_sa2,121011400,138606
+106011113,Singleton Region,E01,1.0,nearest_boundary_sa2,121011400,133378
+106021114,Maitland,E01,1.0,nearest_boundary_sa2,121041415,121971
+106021115,Maitland - East,E01,1.0,nearest_boundary_sa2,121041415,124000
+106021116,Maitland - North,E01,1.0,nearest_boundary_sa2,121041415,131818
+106021117,Maitland - West,E01,1.0,nearest_boundary_sa2,121041415,129176
+106021118,Thornton - Millers Forest,E01,1.0,nearest_boundary_sa2,121041415,124969
+106031119,Anna Bay,E01,1.0,nearest_boundary_sa2,121041415,138679
+106031120,Lemon Tree Passage - Tanilba Bay,E01,1.0,nearest_boundary_sa2,121041415,139664
+106031121,Nelson Bay Peninsula,E01,1.0,nearest_boundary_sa2,121041415,146564
+106031122,Raymond Terrace,E01,1.0,nearest_boundary_sa2,121041415,126973
+106031123,Seaham - Woodville,E01,1.0,nearest_boundary_sa2,121041415,137009
+106031124,Tea Gardens - Hawks Nest,E01,1.0,nearest_boundary_sa2,121041415,156768
+106031125,Williamtown - Medowie - Karuah,E01,1.0,nearest_boundary_sa2,121041415,137560
+106041126,Muswellbrook,E01,1.0,nearest_boundary_sa2,121011400,169364
+106041127,Muswellbrook Region,E01,1.0,nearest_boundary_sa2,121011400,161142
+106041128,Scone,E01,1.0,nearest_boundary_sa2,121011400,199085
+106041129,Scone Region,E01,1.0,nearest_boundary_sa2,121011400,210258
+107011131,Dapto - Avondale,E13,0.5,nearest_boundary_sa2,117021328,76518
+107011131,Dapto - Avondale,E12,0.5,nearest_boundary_sa2,117021328,76518
+107011132,Horsley - Kembla Grange,E13,0.5,nearest_boundary_sa2,117021328,72294
+107011132,Horsley - Kembla Grange,E12,0.5,nearest_boundary_sa2,117021328,72294
+107011133,Port Kembla Industrial,E13,0.5,nearest_boundary_sa2,117021328,65538
+107011133,Port Kembla Industrial,E12,0.5,nearest_boundary_sa2,117021328,65538
+107011134,Unanderra - Mount Kembla,E13,0.5,nearest_boundary_sa2,117021328,66125
+107011134,Unanderra - Mount Kembla,E12,0.5,nearest_boundary_sa2,117021328,66125
+107011545,Berkeley - Lake Heights - Cringila,E13,0.5,nearest_boundary_sa2,117021328,68761
+107011545,Berkeley - Lake Heights - Cringila,E12,0.5,nearest_boundary_sa2,117021328,68761
+107011546,Port Kembla - Warrawong,E13,0.5,nearest_boundary_sa2,117021328,67962
+107011546,Port Kembla - Warrawong,E12,0.5,nearest_boundary_sa2,117021328,67962
+107011547,Windang - Primbee,E13,0.5,nearest_boundary_sa2,117021328,71303
+107011547,Windang - Primbee,E12,0.5,nearest_boundary_sa2,117021328,71303
+107021135,Illawarra Catchment Reserve,E11,0.25,nearest_boundary_sa2,117021326,65086
+107021135,Illawarra Catchment Reserve,E10,0.25,nearest_boundary_sa2,117021326,65086
+107021135,Illawarra Catchment Reserve,E09,0.25,nearest_boundary_sa2,117021326,65086
+107021135,Illawarra Catchment Reserve,E08,0.25,nearest_boundary_sa2,117021326,65086
+107031136,Albion Park - Macquarie Pass,E13,0.5,nearest_boundary_sa2,117021328,83909
+107031136,Albion Park - Macquarie Pass,E12,0.5,nearest_boundary_sa2,117021328,83909
+107031137,Albion Park Rail,E13,0.5,nearest_boundary_sa2,117021328,79203
+107031137,Albion Park Rail,E12,0.5,nearest_boundary_sa2,117021328,79203
+107031138,Kiama,E13,0.5,nearest_boundary_sa2,117021328,89807
+107031138,Kiama,E12,0.5,nearest_boundary_sa2,117021328,89807
+107031139,Kiama Downs - Minnamurra,E13,0.5,nearest_boundary_sa2,117021328,85221
+107031139,Kiama Downs - Minnamurra,E12,0.5,nearest_boundary_sa2,117021328,85221
+107031140,Kiama Hinterland - Gerringong,E13,0.5,nearest_boundary_sa2,117021328,93600
+107031140,Kiama Hinterland - Gerringong,E12,0.5,nearest_boundary_sa2,117021328,93600
+107031141,Shellharbour - Flinders,E13,0.5,nearest_boundary_sa2,117021328,81909
+107031141,Shellharbour - Flinders,E12,0.5,nearest_boundary_sa2,117021328,81909
+107031142,Shellharbour - Oak Flats,E13,0.5,nearest_boundary_sa2,117021328,78286
+107031142,Shellharbour - Oak Flats,E12,0.5,nearest_boundary_sa2,117021328,78286
+107031143,Warilla,E13,0.5,nearest_boundary_sa2,117021328,76269
+107031143,Warilla,E12,0.5,nearest_boundary_sa2,117021328,76269
+107041144,Balgownie - Fairy Meadow,E13,0.5,nearest_boundary_sa2,117021328,58565
+107041144,Balgownie - Fairy Meadow,E12,0.5,nearest_boundary_sa2,117021328,58565
+107041145,Corrimal - Tarrawanna - Bellambi,E13,0.5,nearest_boundary_sa2,117021328,56013
+107041145,Corrimal - Tarrawanna - Bellambi,E12,0.5,nearest_boundary_sa2,117021328,56013
+107041146,Figtree - Keiraville,E13,0.5,nearest_boundary_sa2,117021328,62567
+107041146,Figtree - Keiraville,E12,0.5,nearest_boundary_sa2,117021328,62567
+107041147,Helensburgh,E13,0.5,nearest_boundary_sa2,117021328,35672
+107041147,Helensburgh,E12,0.5,nearest_boundary_sa2,117021328,35672
+107041148,Thirroul - Austinmer - Coalcliff,E13,0.5,nearest_boundary_sa2,117021328,46217
+107041148,Thirroul - Austinmer - Coalcliff,E12,0.5,nearest_boundary_sa2,117021328,46217
+107041150,Woonona - Bulli - Russell Vale,E13,0.5,nearest_boundary_sa2,117021328,52742
+107041150,Woonona - Bulli - Russell Vale,E12,0.5,nearest_boundary_sa2,117021328,52742
+107041548,Wollongong - East,E13,0.5,nearest_boundary_sa2,117021328,61503
+107041548,Wollongong - East,E12,0.5,nearest_boundary_sa2,117021328,61503
+107041549,Wollongong - West,E13,0.5,nearest_boundary_sa2,117021328,62565
+107041549,Wollongong - West,E12,0.5,nearest_boundary_sa2,117021328,62565
+108011151,Bulahdelah - Stroud,E01,1.0,nearest_boundary_sa2,121041415,180062
+108011152,Forster,E01,1.0,nearest_boundary_sa2,121041415,215322
+108011153,Forster-Tuncurry Region,E01,1.0,nearest_boundary_sa2,121041415,206085
+108011154,Tuncurry,E01,1.0,nearest_boundary_sa2,121041415,218653
+108021155,Kempsey,E01,1.0,nearest_boundary_sa2,121041415,339737
+108021156,Kempsey Region,E01,1.0,nearest_boundary_sa2,121041415,346878
+108021157,Macksville - Scotts Head,E01,1.0,nearest_boundary_sa2,121041415,381106
+108021158,Nambucca Heads,E01,1.0,nearest_boundary_sa2,121041415,389973
+108021159,Nambucca Heads Region,E01,1.0,nearest_boundary_sa2,121041415,377077
+108021160,South West Rocks,E01,1.0,nearest_boundary_sa2,121041415,365714
+108031161,Lord Howe Island,E01,1.0,nearest_boundary_sa2,121041415,775168
+108041162,Laurieton - Bonny Hills,E01,1.0,nearest_boundary_sa2,121041415,280664
+108041163,Port Macquarie - East,E01,1.0,nearest_boundary_sa2,121041415,303757
+108041164,Port Macquarie - West,E01,1.0,nearest_boundary_sa2,121041415,305911
+108041165,Port Macquarie Region,E01,1.0,nearest_boundary_sa2,121041415,297047
+108041166,Wauchope,E01,1.0,nearest_boundary_sa2,121041415,298820
+108051167,Gloucester,E01,1.0,nearest_boundary_sa2,121041415,219937
+108051168,Old Bar - Manning Point - Red Head,E01,1.0,nearest_boundary_sa2,121041415,239436
+108051169,Taree,E01,1.0,nearest_boundary_sa2,121041415,242069
+108051170,Taree Region,E01,1.0,nearest_boundary_sa2,121041415,247044
+108051171,Wingham,E01,1.0,nearest_boundary_sa2,121041415,242493
+109011172,Albury - East,E11,0.25,nearest_boundary_sa2,117021326,446533
+109011172,Albury - East,E10,0.25,nearest_boundary_sa2,117021326,446533
+109011172,Albury - East,E09,0.25,nearest_boundary_sa2,117021326,446533
+109011172,Albury - East,E08,0.25,nearest_boundary_sa2,117021326,446533
+109011173,Albury - North,E11,0.25,nearest_boundary_sa2,117021326,454079
+109011173,Albury - North,E10,0.25,nearest_boundary_sa2,117021326,454079
+109011173,Albury - North,E09,0.25,nearest_boundary_sa2,117021326,454079
+109011173,Albury - North,E08,0.25,nearest_boundary_sa2,117021326,454079
+109011174,Albury - South,E11,0.25,nearest_boundary_sa2,117021326,457959
+109011174,Albury - South,E10,0.25,nearest_boundary_sa2,117021326,457959
+109011174,Albury - South,E09,0.25,nearest_boundary_sa2,117021326,457959
+109011174,Albury - South,E08,0.25,nearest_boundary_sa2,117021326,457959
+109011175,Albury Region,E11,0.25,nearest_boundary_sa2,117021326,416479
+109011175,Albury Region,E10,0.25,nearest_boundary_sa2,117021326,416479
+109011175,Albury Region,E09,0.25,nearest_boundary_sa2,117021326,416479
+109011175,Albury Region,E08,0.25,nearest_boundary_sa2,117021326,416479
+109011176,Lavington,E11,0.25,nearest_boundary_sa2,117021326,450517
+109011176,Lavington,E10,0.25,nearest_boundary_sa2,117021326,450517
+109011176,Lavington,E09,0.25,nearest_boundary_sa2,117021326,450517
+109011176,Lavington,E08,0.25,nearest_boundary_sa2,117021326,450517
+109021177,Hay,E11,0.25,nearest_boundary_sa2,117021326,594705
+109021177,Hay,E10,0.25,nearest_boundary_sa2,117021326,594705
+109021177,Hay,E09,0.25,nearest_boundary_sa2,117021326,594705
+109021177,Hay,E08,0.25,nearest_boundary_sa2,117021326,594705
+109021178,Wentworth - Buronga,E11,0.25,nearest_boundary_sa2,117021326,840085
+109021178,Wentworth - Buronga,E10,0.25,nearest_boundary_sa2,117021326,840085
+109021178,Wentworth - Buronga,E09,0.25,nearest_boundary_sa2,117021326,840085
+109021178,Wentworth - Buronga,E08,0.25,nearest_boundary_sa2,117021326,840085
+109021179,Wentworth-Balranald Region,E11,0.25,nearest_boundary_sa2,117021326,761949
+109021179,Wentworth-Balranald Region,E10,0.25,nearest_boundary_sa2,117021326,761949
+109021179,Wentworth-Balranald Region,E09,0.25,nearest_boundary_sa2,117021326,761949
+109021179,Wentworth-Balranald Region,E08,0.25,nearest_boundary_sa2,117021326,761949
+109031180,Corowa,E11,0.25,nearest_boundary_sa2,117021326,494670
+109031180,Corowa,E10,0.25,nearest_boundary_sa2,117021326,494670
+109031180,Corowa,E09,0.25,nearest_boundary_sa2,117021326,494670
+109031180,Corowa,E08,0.25,nearest_boundary_sa2,117021326,494670
+109031181,Corowa Region,E11,0.25,nearest_boundary_sa2,117021326,484955
+109031181,Corowa Region,E10,0.25,nearest_boundary_sa2,117021326,484955
+109031181,Corowa Region,E09,0.25,nearest_boundary_sa2,117021326,484955
+109031181,Corowa Region,E08,0.25,nearest_boundary_sa2,117021326,484955
+109031182,Deniliquin,E11,0.25,nearest_boundary_sa2,117021326,592861
+109031182,Deniliquin,E10,0.25,nearest_boundary_sa2,117021326,592861
+109031182,Deniliquin,E09,0.25,nearest_boundary_sa2,117021326,592861
+109031182,Deniliquin,E08,0.25,nearest_boundary_sa2,117021326,592861
+109031183,Deniliquin Region,E11,0.25,nearest_boundary_sa2,117021326,618436
+109031183,Deniliquin Region,E10,0.25,nearest_boundary_sa2,117021326,618436
+109031183,Deniliquin Region,E09,0.25,nearest_boundary_sa2,117021326,618436
+109031183,Deniliquin Region,E08,0.25,nearest_boundary_sa2,117021326,618436
+109031184,Moama,E11,0.25,nearest_boundary_sa2,117021326,628155
+109031184,Moama,E10,0.25,nearest_boundary_sa2,117021326,628155
+109031184,Moama,E09,0.25,nearest_boundary_sa2,117021326,628155
+109031184,Moama,E08,0.25,nearest_boundary_sa2,117021326,628155
+109031185,Tocumwal - Finley - Jerilderie,E11,0.25,nearest_boundary_sa2,117021326,523586
+109031185,Tocumwal - Finley - Jerilderie,E10,0.25,nearest_boundary_sa2,117021326,523586
+109031185,Tocumwal - Finley - Jerilderie,E09,0.25,nearest_boundary_sa2,117021326,523586
+109031185,Tocumwal - Finley - Jerilderie,E08,0.25,nearest_boundary_sa2,117021326,523586
+110011186,Armidale,E01,1.0,nearest_boundary_sa2,121041413,371936
+110011187,Armidale Region - North,E01,1.0,nearest_boundary_sa2,121041415,393686
+110011188,Armidale Region - South,E01,1.0,nearest_boundary_sa2,121011400,361376
+110011189,Walcha,E01,1.0,nearest_boundary_sa2,121041415,299892
+110021190,Glen Innes,E01,1.0,nearest_boundary_sa2,121041415,469394
+110021191,Inverell,E01,1.0,nearest_boundary_sa2,121011400,451384
+110021192,Inverell Region - East,E01,1.0,nearest_boundary_sa2,121011400,484986
+110021193,Inverell Region - West,E01,1.0,nearest_boundary_sa2,121011400,456652
+110021194,Tenterfield,E01,1.0,nearest_boundary_sa2,121041415,549053
+110031195,Moree,E01,1.0,nearest_boundary_sa2,121011400,501193
+110031196,Moree Region,E01,1.0,nearest_boundary_sa2,121011400,529103
+110031197,Narrabri,E01,1.0,nearest_boundary_sa2,121011400,406520
+110031198,Narrabri Region,E01,1.0,nearest_boundary_sa2,121011400,417644
+110041199,Gunnedah,E01,1.0,nearest_boundary_sa2,121011400,327695
+110041200,Gunnedah Region,E01,1.0,nearest_boundary_sa2,121011400,328226
+110041201,Quirindi,E01,1.0,nearest_boundary_sa2,121011400,261594
+110041202,Tamworth - East,E01,1.0,nearest_boundary_sa2,121011400,297142
+110041203,Tamworth - North,E01,1.0,nearest_boundary_sa2,121011400,304114
+110041204,Tamworth - West,E01,1.0,nearest_boundary_sa2,121011400,304997
+110041205,Tamworth Region,E01,1.0,nearest_boundary_sa2,121011400,328568
+111011206,Belmont - Bennetts Green,E01,1.0,nearest_boundary_sa2,121041415,98668
+111011207,Belmont South - Blacksmiths,E01,1.0,nearest_boundary_sa2,121041415,93156
+111011208,Charlestown - Dudley,E01,1.0,nearest_boundary_sa2,121041415,104175
+111011209,Glendale - Cardiff - Hillsborough,E01,1.0,nearest_boundary_sa2,121041415,105874
+111011210,Mount Hutton - Windale,E01,1.0,nearest_boundary_sa2,121041415,101370
+111011211,Redhead,E01,1.0,nearest_boundary_sa2,121041415,100886
+111011212,Swansea - Caves Beach,E01,1.0,nearest_boundary_sa2,121041415,85400
+111011213,Valentine - Eleebana,E01,1.0,nearest_boundary_sa2,121041415,98910
+111011214,Warners Bay - Boolaroo,E01,1.0,nearest_boundary_sa2,121041415,103067
+111021215,Bolton Point - Teralba,E01,1.0,nearest_boundary_sa2,121041415,101861
+111021216,Bonnells Bay - Silverwater,E01,1.0,nearest_boundary_sa2,121041415,84598
+111021217,Edgeworth - Cameron Park,E01,1.0,nearest_boundary_sa2,121041415,107426
+111021218,Morisset - Cooranbong,E01,1.0,nearest_boundary_sa2,121041415,85222
+111021219,Toronto - Awaba,E01,1.0,nearest_boundary_sa2,121041415,94969
+111021220,Wangi Wangi - Rathmines,E01,1.0,nearest_boundary_sa2,121041415,91541
+111021221,West Wallsend - Barnsley - Killingworth,E01,1.0,nearest_boundary_sa2,121041415,104182
+111031222,Adamstown - Kotara,E01,1.0,nearest_boundary_sa2,121041415,107529
+111031223,Beresfield - Hexham,E01,1.0,nearest_boundary_sa2,121041415,117883
+111031224,Hamilton - Broadmeadow,E01,1.0,nearest_boundary_sa2,121041415,110650
+111031225,Lambton - New Lambton,E01,1.0,nearest_boundary_sa2,121041415,109321
+111031226,Maryland - Fletcher - Minmi,E01,1.0,nearest_boundary_sa2,121041415,112155
+111031227,Mayfield - Warabrook,E01,1.0,nearest_boundary_sa2,121041415,113583
+111031228,Merewether - The Junction,E01,1.0,nearest_boundary_sa2,121041415,108439
+111031229,Newcastle - Cooks Hill,E01,1.0,nearest_boundary_sa2,121041415,111309
+111031230,Newcastle Port - Kooragang,E01,1.0,nearest_boundary_sa2,121041415,116365
+111031231,Shortland - Jesmond,E01,1.0,nearest_boundary_sa2,121041415,113359
+111031232,Stockton - Fullerton Cove,E01,1.0,nearest_boundary_sa2,121041415,121112
+111031233,Wallsend - Elermore Vale,E01,1.0,nearest_boundary_sa2,121041415,109804
+111031234,Waratah - North Lambton,E01,1.0,nearest_boundary_sa2,121041415,111844
+111031235,Wickham - Carrington - Tighes Hill,E01,1.0,nearest_boundary_sa2,121041415,112372
+112011236,Ballina,E01,1.0,nearest_boundary_sa2,121041415,595768
+112011237,Ballina Region,E01,1.0,nearest_boundary_sa2,121041415,591576
+112011238,Bangalow,E01,1.0,nearest_boundary_sa2,121041415,612039
+112011239,Brunswick Heads - Ocean Shores,E01,1.0,nearest_boundary_sa2,121041415,626636
+112011240,Byron Bay,E01,1.0,nearest_boundary_sa2,121041415,614610
+112011241,Evans Head,E01,1.0,nearest_boundary_sa2,121041415,557129
+112011242,Lennox Head - Skennars Head,E01,1.0,nearest_boundary_sa2,121041415,602990
+112011243,Mullumbimby,E01,1.0,nearest_boundary_sa2,121041415,623310
+112021244,Casino,E01,1.0,nearest_boundary_sa2,121041415,579918
+112021245,Casino Region,E01,1.0,nearest_boundary_sa2,121041415,565616
+112021246,Goonellabah,E01,1.0,nearest_boundary_sa2,121041415,590859
+112021247,Kyogle,E01,1.0,nearest_boundary_sa2,121041415,611188
+112021248,Lismore,E01,1.0,nearest_boundary_sa2,121041415,589778
+112021249,Lismore Region,E01,1.0,nearest_boundary_sa2,121041415,596518
+112031250,Kingscliff - Fingal Head,E01,1.0,nearest_boundary_sa2,121041415,657241
+112031251,Murwillumbah,E01,1.0,nearest_boundary_sa2,121041415,644378
+112031252,Murwillumbah Region,E01,1.0,nearest_boundary_sa2,121041415,636729
+112031253,Pottsville,E01,1.0,nearest_boundary_sa2,121041415,640911
+112031254,Tweed Heads,E01,1.0,nearest_boundary_sa2,121041415,658413
+112031550,Banora Point,E01,1.0,nearest_boundary_sa2,121041415,660544
+112031551,Terranora - North Tumblegum,E01,1.0,nearest_boundary_sa2,121041415,655951
+112031552,Tweed Heads South,E01,1.0,nearest_boundary_sa2,121041415,662683
+113011256,Griffith (NSW),E11,0.25,nearest_boundary_sa2,117021326,472007
+113011256,Griffith (NSW),E10,0.25,nearest_boundary_sa2,117021326,472007
+113011256,Griffith (NSW),E09,0.25,nearest_boundary_sa2,117021326,472007
+113011256,Griffith (NSW),E08,0.25,nearest_boundary_sa2,117021326,472007
+113011257,Griffith Region,E11,0.25,nearest_boundary_sa2,117021326,505104
+113011257,Griffith Region,E10,0.25,nearest_boundary_sa2,117021326,505104
+113011257,Griffith Region,E09,0.25,nearest_boundary_sa2,117021326,505104
+113011257,Griffith Region,E08,0.25,nearest_boundary_sa2,117021326,505104
+113011258,Leeton,E11,0.25,nearest_boundary_sa2,117021326,441747
+113011258,Leeton,E10,0.25,nearest_boundary_sa2,117021326,441747
+113011258,Leeton,E09,0.25,nearest_boundary_sa2,117021326,441747
+113011258,Leeton,E08,0.25,nearest_boundary_sa2,117021326,441747
+113011259,Narrandera,E11,0.25,nearest_boundary_sa2,117021326,436597
+113011259,Narrandera,E10,0.25,nearest_boundary_sa2,117021326,436597
+113011259,Narrandera,E09,0.25,nearest_boundary_sa2,117021326,436597
+113011259,Narrandera,E08,0.25,nearest_boundary_sa2,117021326,436597
+113021260,Tumbarumba,E11,0.25,nearest_boundary_sa2,117021326,362410
+113021260,Tumbarumba,E10,0.25,nearest_boundary_sa2,117021326,362410
+113021260,Tumbarumba,E09,0.25,nearest_boundary_sa2,117021326,362410
+113021260,Tumbarumba,E08,0.25,nearest_boundary_sa2,117021326,362410
+113021261,Tumut,E11,0.25,nearest_boundary_sa2,117021326,310945
+113021261,Tumut,E10,0.25,nearest_boundary_sa2,117021326,310945
+113021261,Tumut,E09,0.25,nearest_boundary_sa2,117021326,310945
+113021261,Tumut,E08,0.25,nearest_boundary_sa2,117021326,310945
+113021262,Tumut Region,E11,0.25,nearest_boundary_sa2,117021326,307947
+113021262,Tumut Region,E10,0.25,nearest_boundary_sa2,117021326,307947
+113021262,Tumut Region,E09,0.25,nearest_boundary_sa2,117021326,307947
+113021262,Tumut Region,E08,0.25,nearest_boundary_sa2,117021326,307947
+113031263,Cootamundra,E11,0.25,nearest_boundary_sa2,117021326,298461
+113031263,Cootamundra,E10,0.25,nearest_boundary_sa2,117021326,298461
+113031263,Cootamundra,E09,0.25,nearest_boundary_sa2,117021326,298461
+113031263,Cootamundra,E08,0.25,nearest_boundary_sa2,117021326,298461
+113031264,Gundagai,E11,0.25,nearest_boundary_sa2,117021326,302470
+113031264,Gundagai,E10,0.25,nearest_boundary_sa2,117021326,302470
+113031264,Gundagai,E09,0.25,nearest_boundary_sa2,117021326,302470
+113031264,Gundagai,E08,0.25,nearest_boundary_sa2,117021326,302470
+113031265,Junee,E11,0.25,nearest_boundary_sa2,117021326,334608
+113031265,Junee,E10,0.25,nearest_boundary_sa2,117021326,334608
+113031265,Junee,E09,0.25,nearest_boundary_sa2,117021326,334608
+113031265,Junee,E08,0.25,nearest_boundary_sa2,117021326,334608
+113031266,Temora,E11,0.25,nearest_boundary_sa2,117021326,351530
+113031266,Temora,E10,0.25,nearest_boundary_sa2,117021326,351530
+113031266,Temora,E09,0.25,nearest_boundary_sa2,117021326,351530
+113031266,Temora,E08,0.25,nearest_boundary_sa2,117021326,351530
+113031267,Wagga Wagga - East,E11,0.25,nearest_boundary_sa2,117021326,370447
+113031267,Wagga Wagga - East,E10,0.25,nearest_boundary_sa2,117021326,370447
+113031267,Wagga Wagga - East,E09,0.25,nearest_boundary_sa2,117021326,370447
+113031267,Wagga Wagga - East,E08,0.25,nearest_boundary_sa2,117021326,370447
+113031268,Wagga Wagga - North,E11,0.25,nearest_boundary_sa2,117021326,367060
+113031268,Wagga Wagga - North,E10,0.25,nearest_boundary_sa2,117021326,367060
+113031268,Wagga Wagga - North,E09,0.25,nearest_boundary_sa2,117021326,367060
+113031268,Wagga Wagga - North,E08,0.25,nearest_boundary_sa2,117021326,367060
+113031269,Wagga Wagga - South,E11,0.25,nearest_boundary_sa2,117021326,375815
+113031269,Wagga Wagga - South,E10,0.25,nearest_boundary_sa2,117021326,375815
+113031269,Wagga Wagga - South,E09,0.25,nearest_boundary_sa2,117021326,375815
+113031269,Wagga Wagga - South,E08,0.25,nearest_boundary_sa2,117021326,375815
+113031270,Wagga Wagga - West,E11,0.25,nearest_boundary_sa2,117021326,377530
+113031270,Wagga Wagga - West,E10,0.25,nearest_boundary_sa2,117021326,377530
+113031270,Wagga Wagga - West,E09,0.25,nearest_boundary_sa2,117021326,377530
+113031270,Wagga Wagga - West,E08,0.25,nearest_boundary_sa2,117021326,377530
+113031271,Wagga Wagga Region,E11,0.25,nearest_boundary_sa2,117021326,392272
+113031271,Wagga Wagga Region,E10,0.25,nearest_boundary_sa2,117021326,392272
+113031271,Wagga Wagga Region,E09,0.25,nearest_boundary_sa2,117021326,392272
+113031271,Wagga Wagga Region,E08,0.25,nearest_boundary_sa2,117021326,392272
+114011272,Berry - Kangaroo Valley,E13,0.5,nearest_boundary_sa2,117021328,107943
+114011272,Berry - Kangaroo Valley,E12,0.5,nearest_boundary_sa2,117021328,107943
+114011273,Callala Bay - Currarong,E13,0.5,nearest_boundary_sa2,117021328,125857
+114011273,Callala Bay - Currarong,E12,0.5,nearest_boundary_sa2,117021328,125857
+114011274,Culburra Beach,E13,0.5,nearest_boundary_sa2,117021328,117017
+114011274,Culburra Beach,E12,0.5,nearest_boundary_sa2,117021328,117017
+114011275,Ettrema - Sassafras - Budawang,E13,0.5,nearest_boundary_sa2,117021328,156071
+114011275,Ettrema - Sassafras - Budawang,E12,0.5,nearest_boundary_sa2,117021328,156071
+114011276,Huskisson - Vincentia,E13,0.5,nearest_boundary_sa2,117021328,135509
+114011276,Huskisson - Vincentia,E12,0.5,nearest_boundary_sa2,117021328,135509
+114011277,North Nowra - Bomaderry,E13,0.5,nearest_boundary_sa2,117021328,114937
+114011277,North Nowra - Bomaderry,E12,0.5,nearest_boundary_sa2,117021328,114937
+114011278,Nowra,E13,0.5,nearest_boundary_sa2,117021328,121565
+114011278,Nowra,E12,0.5,nearest_boundary_sa2,117021328,121565
+114011279,St Georges Basin - Erowal Bay,E13,0.5,nearest_boundary_sa2,117021328,141089
+114011279,St Georges Basin - Erowal Bay,E12,0.5,nearest_boundary_sa2,117021328,141089
+114011280,Sussex Inlet - Berrara,E13,0.5,nearest_boundary_sa2,117021328,147269
+114011280,Sussex Inlet - Berrara,E12,0.5,nearest_boundary_sa2,117021328,147269
+114011281,Tomerong - Wandandian - Woollamia,E13,0.5,nearest_boundary_sa2,117021328,133995
+114011281,Tomerong - Wandandian - Woollamia,E12,0.5,nearest_boundary_sa2,117021328,133995
+114011282,Ulladulla,E13,0.5,nearest_boundary_sa2,117021328,171330
+114011282,Ulladulla,E12,0.5,nearest_boundary_sa2,117021328,171330
+114011283,Ulladulla Region,E13,0.5,nearest_boundary_sa2,117021328,178279
+114011283,Ulladulla Region,E12,0.5,nearest_boundary_sa2,117021328,178279
+114021284,Bowral,E11,0.25,nearest_boundary_sa2,117021326,93174
+114021284,Bowral,E10,0.25,nearest_boundary_sa2,117021326,93174
+114021284,Bowral,E09,0.25,nearest_boundary_sa2,117021326,93174
+114021284,Bowral,E08,0.25,nearest_boundary_sa2,117021326,93174
+114021285,Hill Top - Colo Vale,E11,0.25,nearest_boundary_sa2,117021326,78905
+114021285,Hill Top - Colo Vale,E10,0.25,nearest_boundary_sa2,117021326,78905
+114021285,Hill Top - Colo Vale,E09,0.25,nearest_boundary_sa2,117021326,78905
+114021285,Hill Top - Colo Vale,E08,0.25,nearest_boundary_sa2,117021326,78905
+114021286,Mittagong,E11,0.25,nearest_boundary_sa2,117021326,86562
+114021286,Mittagong,E10,0.25,nearest_boundary_sa2,117021326,86562
+114021286,Mittagong,E09,0.25,nearest_boundary_sa2,117021326,86562
+114021286,Mittagong,E08,0.25,nearest_boundary_sa2,117021326,86562
+114021287,Moss Vale - Berrima,E11,0.25,nearest_boundary_sa2,117021326,99767
+114021287,Moss Vale - Berrima,E10,0.25,nearest_boundary_sa2,117021326,99767
+114021287,Moss Vale - Berrima,E09,0.25,nearest_boundary_sa2,117021326,99767
+114021287,Moss Vale - Berrima,E08,0.25,nearest_boundary_sa2,117021326,99767
+114021288,Robertson - Fitzroy Falls,E13,0.5,nearest_boundary_sa2,117021328,98501
+114021288,Robertson - Fitzroy Falls,E12,0.5,nearest_boundary_sa2,117021328,98501
+114021289,Southern Highlands,E11,0.25,nearest_boundary_sa2,117021326,103681
+114021289,Southern Highlands,E10,0.25,nearest_boundary_sa2,117021326,103681
+114021289,Southern Highlands,E09,0.25,nearest_boundary_sa2,117021326,103681
+114021289,Southern Highlands,E08,0.25,nearest_boundary_sa2,117021326,103681
+115011290,Baulkham Hills (East),E01,1.0,nearest_boundary_sa2,121011400,17895
+115011291,Baulkham Hills (West) - Bella Vista,E01,1.0,nearest_boundary_sa2,121011400,20680
+115011294,Glenhaven,E01,1.0,nearest_boundary_sa2,121011400,20448
+115011296,West Pennant Hills,E01,1.0,nearest_boundary_sa2,121011400,14930
+115011553,Castle Hill - Central,E01,1.0,nearest_boundary_sa2,121011400,19227
+115011554,Castle Hill - East,E01,1.0,nearest_boundary_sa2,121011400,17199
+115011555,Castle Hill - North,E01,1.0,nearest_boundary_sa2,121011400,19167
+115011556,Castle Hill - South,E01,1.0,nearest_boundary_sa2,121011400,17042
+115011557,Castle Hill - West,E01,1.0,nearest_boundary_sa2,121011400,21112
+115011558,Cherrybrook,E01,1.0,nearest_boundary_sa2,121011400,15734
+115011559,Kellyville,E01,1.0,nearest_boundary_sa2,121011400,22890
+115021297,Dural - Kenthurst - Wisemans Ferry,E01,1.0,nearest_boundary_sa2,121011400,35044
+115021298,Galston - Laughtondale,E01,1.0,nearest_boundary_sa2,121011400,31354
+115031299,Bilpin - Colo - St Albans,E01,1.0,nearest_boundary_sa2,121011400,70843
+115031300,Kurrajong Heights - Ebenezer,E01,1.0,nearest_boundary_sa2,121011400,50699
+115041301,Pitt Town - McGraths Hill,E01,1.0,nearest_boundary_sa2,121011400,36005
+115041302,Rouse Hill - Beaumont Hills,E01,1.0,nearest_boundary_sa2,121011400,28770
+116011303,Blacktown (East) - Kings Park,E01,1.0,nearest_boundary_sa2,121011400,24672
+116011304,Blacktown (North) - Marayong,E01,1.0,nearest_boundary_sa2,121011400,26908
+116011306,Doonside - Woodcroft,E01,1.0,nearest_boundary_sa2,121011400,27974
+116011307,Lalor Park - Kings Langley,E01,1.0,nearest_boundary_sa2,121011400,22081
+116011308,Seven Hills - Toongabbie,E01,1.0,nearest_boundary_sa2,121011400,22505
+116011560,Blacktown (South),E01,1.0,nearest_boundary_sa2,121011400,24214
+116011561,Blacktown (West),E01,1.0,nearest_boundary_sa2,121011400,25856
+116021309,Glenwood,E01,1.0,nearest_boundary_sa2,121011400,23478
+116021310,Parklea - Kellyville Ridge,E01,1.0,nearest_boundary_sa2,121011400,26144
+116021312,Riverstone - Marsden Park,E01,1.0,nearest_boundary_sa2,121011400,32996
+116021562,Acacia Gardens,E01,1.0,nearest_boundary_sa2,121011400,25361
+116021563,Quakers Hill,E01,1.0,nearest_boundary_sa2,121011400,27729
+116031313,Bidwill - Hebersham - Emerton,E01,1.0,nearest_boundary_sa2,121011400,33465
+116031314,Glendenning - Dean Park,E01,1.0,nearest_boundary_sa2,121011400,30015
+116031315,Hassall Grove - Plumpton,E01,1.0,nearest_boundary_sa2,121011400,31648
+116031316,Lethbridge Park - Tregear,E01,1.0,nearest_boundary_sa2,121011400,36395
+116031317,Mount Druitt - Whalan,E01,1.0,nearest_boundary_sa2,121011400,33317
+116031318,Prospect Reservoir,E01,1.0,nearest_boundary_sa2,121011400,27979
+116031319,Rooty Hill - Minchinbury,E01,1.0,nearest_boundary_sa2,121011400,30263
+117011320,Banksmeadow,E17,0.25,nearest_boundary_sa2,117011322,3207
+117011320,Banksmeadow,E16,0.25,nearest_boundary_sa2,117011322,3207
+117011320,Banksmeadow,E15,0.25,nearest_boundary_sa2,117011322,3207
+117011320,Banksmeadow,E14,0.25,nearest_boundary_sa2,117011322,3207
+117011321,Botany,E17,0.25,nearest_boundary_sa2,117011322,2189
+117011321,Botany,E16,0.25,nearest_boundary_sa2,117011322,2189
+117011321,Botany,E15,0.25,nearest_boundary_sa2,117011322,2189
+117011321,Botany,E14,0.25,nearest_boundary_sa2,117011322,2189
+117011322,Mascot - Eastlakes,E17,0.25,boundary,117011322,0
+117011322,Mascot - Eastlakes,E16,0.25,boundary,117011322,0
+117011322,Mascot - Eastlakes,E15,0.25,boundary,117011322,0
+117011322,Mascot - Eastlakes,E14,0.25,boundary,117011322,0
+117011323,Pagewood - Hillsdale - Daceyville,E17,0.25,nearest_boundary_sa2,117011322,2367
+117011323,Pagewood - Hillsdale - Daceyville,E16,0.25,nearest_boundary_sa2,117011322,2367
+117011323,Pagewood - Hillsdale - Daceyville,E15,0.25,nearest_boundary_sa2,117011322,2367
+117011323,Pagewood - Hillsdale - Daceyville,E14,0.25,nearest_boundary_sa2,117011322,2367
+117011324,Port Botany Industrial,E17,0.25,nearest_boundary_sa2,117011322,5139
+117011324,Port Botany Industrial,E16,0.25,nearest_boundary_sa2,117011322,5139
+117011324,Port Botany Industrial,E15,0.25,nearest_boundary_sa2,117011322,5139
+117011324,Port Botany Industrial,E14,0.25,nearest_boundary_sa2,117011322,5139
+117011325,Sydney Airport,E17,0.25,nearest_boundary_sa2,117011322,2670
+117011325,Sydney Airport,E16,0.25,nearest_boundary_sa2,117011322,2670
+117011325,Sydney Airport,E15,0.25,nearest_boundary_sa2,117011322,2670
+117011325,Sydney Airport,E14,0.25,nearest_boundary_sa2,117011322,2670
+117021326,Marrickville,E11,0.25,boundary,117021326,0
+117021326,Marrickville,E10,0.25,boundary,117021326,0
+117021326,Marrickville,E09,0.25,boundary,117021326,0
+117021326,Marrickville,E08,0.25,boundary,117021326,0
+117021327,Petersham - Stanmore,E10,0.2,boundary,117021327,0
+117021327,Petersham - Stanmore,E09,0.2,boundary,117021327,0
+117021327,Petersham - Stanmore,E08,0.2,boundary,117021327,0
+117021327,Petersham - Stanmore,E07,0.2,boundary,117021327,0
+117021327,Petersham - Stanmore,E06,0.2,boundary,117021327,0
+117021328,Sydenham - Tempe - St Peters,E13,0.5,boundary,117021328,0
+117021328,Sydenham - Tempe - St Peters,E12,0.5,boundary,117021328,0
+118011339,Bondi - Tamarama - Bronte,E21,0.5,nearest_boundary_sa2,118011347,2453
+118011339,Bondi - Tamarama - Bronte,E20,0.5,nearest_boundary_sa2,118011347,2453
+118011340,Bondi Beach - North Bondi,E21,1.0,nearest_boundary_sa2,118011343,2608
+118011341,Bondi Junction - Waverly,E21,0.5,nearest_boundary_sa2,118011347,1329
+118011341,Bondi Junction - Waverly,E20,0.5,nearest_boundary_sa2,118011347,1329
+118011342,Centennial Park,E20,0.5,boundary,118011342,0
+118011342,Centennial Park,E19,0.5,boundary,118011342,0
+118011343,Double Bay - Bellevue Hill,E21,1.0,boundary,118011343,0
+118011344,Dover Heights,E21,1.0,nearest_boundary_sa2,118011343,2880
+118011346,Rose Bay - Vaucluse - Watsons Bay,E21,1.0,nearest_boundary_sa2,118011343,2999
+118011347,Woollahra,E21,0.5,boundary,118011347,0
+118011347,Woollahra,E20,0.5,boundary,118011347,0
+118021348,Coogee - Clovelly,E20,0.5,nearest_boundary_sa2,118011342,3307
+118021348,Coogee - Clovelly,E19,0.5,nearest_boundary_sa2,118011342,3307
+118021350,Malabar - La Perouse - Chifley,E17,0.25,nearest_boundary_sa2,117011322,6215
+118021350,Malabar - La Perouse - Chifley,E16,0.25,nearest_boundary_sa2,117011322,6215
+118021350,Malabar - La Perouse - Chifley,E15,0.25,nearest_boundary_sa2,117011322,6215
+118021350,Malabar - La Perouse - Chifley,E14,0.25,nearest_boundary_sa2,117011322,6215
+118021564,Kensington (NSW),E19,0.5,boundary,118021564,0
+118021564,Kensington (NSW),E18,0.5,boundary,118021564,0
+118021565,Kingsford,E19,0.5,nearest_boundary_sa2,118021564,1513
+118021565,Kingsford,E18,0.5,nearest_boundary_sa2,118021564,1513
+118021566,Maroubra - North,E19,0.5,nearest_boundary_sa2,118021564,3969
+118021566,Maroubra - North,E18,0.5,nearest_boundary_sa2,118021564,3969
+118021567,Maroubra - South,E19,0.5,nearest_boundary_sa2,118021564,4668
+118021567,Maroubra - South,E18,0.5,nearest_boundary_sa2,118021564,4668
+118021568,Maroubra - West,E17,0.25,nearest_boundary_sa2,117011322,3462
+118021568,Maroubra - West,E16,0.25,nearest_boundary_sa2,117011322,3462
+118021568,Maroubra - West,E15,0.25,nearest_boundary_sa2,117011322,3462
+118021568,Maroubra - West,E14,0.25,nearest_boundary_sa2,117011322,3462
+118021569,Randwick - North,E20,0.5,nearest_boundary_sa2,118011342,1414
+118021569,Randwick - North,E19,0.5,nearest_boundary_sa2,118011342,1414
+118021570,Randwick - South,E19,0.5,nearest_boundary_sa2,118021564,1856
+118021570,Randwick - South,E18,0.5,nearest_boundary_sa2,118021564,1856
+119011354,Bass Hill - Georges Hall,E11,0.25,nearest_boundary_sa2,117021326,15482
+119011354,Bass Hill - Georges Hall,E10,0.25,nearest_boundary_sa2,117021326,15482
+119011354,Bass Hill - Georges Hall,E09,0.25,nearest_boundary_sa2,117021326,15482
+119011354,Bass Hill - Georges Hall,E08,0.25,nearest_boundary_sa2,117021326,15482
+119011355,Chullora,E11,0.25,nearest_boundary_sa2,117021326,10502
+119011355,Chullora,E10,0.25,nearest_boundary_sa2,117021326,10502
+119011355,Chullora,E09,0.25,nearest_boundary_sa2,117021326,10502
+119011355,Chullora,E08,0.25,nearest_boundary_sa2,117021326,10502
+119011356,Condell Park,E11,0.25,nearest_boundary_sa2,117021326,14457
+119011356,Condell Park,E10,0.25,nearest_boundary_sa2,117021326,14457
+119011356,Condell Park,E09,0.25,nearest_boundary_sa2,117021326,14457
+119011356,Condell Park,E08,0.25,nearest_boundary_sa2,117021326,14457
+119011357,Greenacre - Mount Lewis,E11,0.25,nearest_boundary_sa2,117021326,8995
+119011357,Greenacre - Mount Lewis,E10,0.25,nearest_boundary_sa2,117021326,8995
+119011357,Greenacre - Mount Lewis,E09,0.25,nearest_boundary_sa2,117021326,8995
+119011357,Greenacre - Mount Lewis,E08,0.25,nearest_boundary_sa2,117021326,8995
+119011358,Padstow,E11,0.25,nearest_boundary_sa2,117021326,12498
+119011358,Padstow,E10,0.25,nearest_boundary_sa2,117021326,12498
+119011358,Padstow,E09,0.25,nearest_boundary_sa2,117021326,12498
+119011358,Padstow,E08,0.25,nearest_boundary_sa2,117021326,12498
+119011359,Panania - Milperra - Picnic Point,E11,0.25,nearest_boundary_sa2,117021326,15773
+119011359,Panania - Milperra - Picnic Point,E10,0.25,nearest_boundary_sa2,117021326,15773
+119011359,Panania - Milperra - Picnic Point,E09,0.25,nearest_boundary_sa2,117021326,15773
+119011359,Panania - Milperra - Picnic Point,E08,0.25,nearest_boundary_sa2,117021326,15773
+119011360,Revesby,E11,0.25,nearest_boundary_sa2,117021326,13630
+119011360,Revesby,E10,0.25,nearest_boundary_sa2,117021326,13630
+119011360,Revesby,E09,0.25,nearest_boundary_sa2,117021326,13630
+119011360,Revesby,E08,0.25,nearest_boundary_sa2,117021326,13630
+119011361,Yagoona - Birrong,E11,0.25,nearest_boundary_sa2,117021326,12538
+119011361,Yagoona - Birrong,E10,0.25,nearest_boundary_sa2,117021326,12538
+119011361,Yagoona - Birrong,E09,0.25,nearest_boundary_sa2,117021326,12538
+119011361,Yagoona - Birrong,E08,0.25,nearest_boundary_sa2,117021326,12538
+119011571,Bankstown - North,E11,0.25,nearest_boundary_sa2,117021326,11496
+119011571,Bankstown - North,E10,0.25,nearest_boundary_sa2,117021326,11496
+119011571,Bankstown - North,E09,0.25,nearest_boundary_sa2,117021326,11496
+119011571,Bankstown - North,E08,0.25,nearest_boundary_sa2,117021326,11496
+119011572,Bankstown - South,E11,0.25,nearest_boundary_sa2,117021326,11525
+119011572,Bankstown - South,E10,0.25,nearest_boundary_sa2,117021326,11525
+119011572,Bankstown - South,E09,0.25,nearest_boundary_sa2,117021326,11525
+119011572,Bankstown - South,E08,0.25,nearest_boundary_sa2,117021326,11525
+119021362,Belmore - Belfield,E11,0.25,nearest_boundary_sa2,117021326,6241
+119021362,Belmore - Belfield,E10,0.25,nearest_boundary_sa2,117021326,6241
+119021362,Belmore - Belfield,E09,0.25,nearest_boundary_sa2,117021326,6241
+119021362,Belmore - Belfield,E08,0.25,nearest_boundary_sa2,117021326,6241
+119021363,Canterbury (South) - Campsie,E11,0.25,nearest_boundary_sa2,117021326,4665
+119021363,Canterbury (South) - Campsie,E10,0.25,nearest_boundary_sa2,117021326,4665
+119021363,Canterbury (South) - Campsie,E09,0.25,nearest_boundary_sa2,117021326,4665
+119021363,Canterbury (South) - Campsie,E08,0.25,nearest_boundary_sa2,117021326,4665
+119021364,Kingsgrove (North) - Earlwood,E11,0.25,nearest_boundary_sa2,117021326,3935
+119021364,Kingsgrove (North) - Earlwood,E10,0.25,nearest_boundary_sa2,117021326,3935
+119021364,Kingsgrove (North) - Earlwood,E09,0.25,nearest_boundary_sa2,117021326,3935
+119021364,Kingsgrove (North) - Earlwood,E08,0.25,nearest_boundary_sa2,117021326,3935
+119021366,Punchbowl,E11,0.25,nearest_boundary_sa2,117021326,9818
+119021366,Punchbowl,E10,0.25,nearest_boundary_sa2,117021326,9818
+119021366,Punchbowl,E09,0.25,nearest_boundary_sa2,117021326,9818
+119021366,Punchbowl,E08,0.25,nearest_boundary_sa2,117021326,9818
+119021367,Roselands,E11,0.25,nearest_boundary_sa2,117021326,7838
+119021367,Roselands,E10,0.25,nearest_boundary_sa2,117021326,7838
+119021367,Roselands,E09,0.25,nearest_boundary_sa2,117021326,7838
+119021367,Roselands,E08,0.25,nearest_boundary_sa2,117021326,7838
+119021573,Lakemba,E11,0.25,nearest_boundary_sa2,117021326,7354
+119021573,Lakemba,E10,0.25,nearest_boundary_sa2,117021326,7354
+119021573,Lakemba,E09,0.25,nearest_boundary_sa2,117021326,7354
+119021573,Lakemba,E08,0.25,nearest_boundary_sa2,117021326,7354
+119021574,Wiley Park,E11,0.25,nearest_boundary_sa2,117021326,8263
+119021574,Wiley Park,E10,0.25,nearest_boundary_sa2,117021326,8263
+119021574,Wiley Park,E09,0.25,nearest_boundary_sa2,117021326,8263
+119021574,Wiley Park,E08,0.25,nearest_boundary_sa2,117021326,8263
+119031368,Hurstville,E11,0.25,nearest_boundary_sa2,117021326,7375
+119031368,Hurstville,E10,0.25,nearest_boundary_sa2,117021326,7375
+119031368,Hurstville,E09,0.25,nearest_boundary_sa2,117021326,7375
+119031368,Hurstville,E08,0.25,nearest_boundary_sa2,117021326,7375
+119031369,Mortdale - Penshurst,E11,0.25,nearest_boundary_sa2,117021326,10050
+119031369,Mortdale - Penshurst,E10,0.25,nearest_boundary_sa2,117021326,10050
+119031369,Mortdale - Penshurst,E09,0.25,nearest_boundary_sa2,117021326,10050
+119031369,Mortdale - Penshurst,E08,0.25,nearest_boundary_sa2,117021326,10050
+119031370,Narwee - Beverly Hills,E11,0.25,nearest_boundary_sa2,117021326,8394
+119031370,Narwee - Beverly Hills,E10,0.25,nearest_boundary_sa2,117021326,8394
+119031370,Narwee - Beverly Hills,E09,0.25,nearest_boundary_sa2,117021326,8394
+119031370,Narwee - Beverly Hills,E08,0.25,nearest_boundary_sa2,117021326,8394
+119031371,Oatley - Hurstville Grove,E11,0.25,nearest_boundary_sa2,117021326,9961
+119031371,Oatley - Hurstville Grove,E10,0.25,nearest_boundary_sa2,117021326,9961
+119031371,Oatley - Hurstville Grove,E09,0.25,nearest_boundary_sa2,117021326,9961
+119031371,Oatley - Hurstville Grove,E08,0.25,nearest_boundary_sa2,117021326,9961
+119031372,Peakhurst - Lugarno,E11,0.25,nearest_boundary_sa2,117021326,11622
+119031372,Peakhurst - Lugarno,E10,0.25,nearest_boundary_sa2,117021326,11622
+119031372,Peakhurst - Lugarno,E09,0.25,nearest_boundary_sa2,117021326,11622
+119031372,Peakhurst - Lugarno,E08,0.25,nearest_boundary_sa2,117021326,11622
+119031373,Riverwood,E11,0.25,nearest_boundary_sa2,117021326,10387
+119031373,Riverwood,E10,0.25,nearest_boundary_sa2,117021326,10387
+119031373,Riverwood,E09,0.25,nearest_boundary_sa2,117021326,10387
+119031373,Riverwood,E08,0.25,nearest_boundary_sa2,117021326,10387
+119031374,South Hurstville - Blakehurst,E13,0.5,nearest_boundary_sa2,117021328,9219
+119031374,South Hurstville - Blakehurst,E12,0.5,nearest_boundary_sa2,117021328,9219
+119041375,Arncliffe - Bardwell Valley,E13,0.5,nearest_boundary_sa2,117021328,2902
+119041375,Arncliffe - Bardwell Valley,E12,0.5,nearest_boundary_sa2,117021328,2902
+119041376,Bexley,E11,0.25,nearest_boundary_sa2,117021326,5874
+119041376,Bexley,E10,0.25,nearest_boundary_sa2,117021326,5874
+119041376,Bexley,E09,0.25,nearest_boundary_sa2,117021326,5874
+119041376,Bexley,E08,0.25,nearest_boundary_sa2,117021326,5874
+119041377,Kingsgrove (South) - Bardwell Park,E11,0.25,nearest_boundary_sa2,117021326,5378
+119041377,Kingsgrove (South) - Bardwell Park,E10,0.25,nearest_boundary_sa2,117021326,5378
+119041377,Kingsgrove (South) - Bardwell Park,E09,0.25,nearest_boundary_sa2,117021326,5378
+119041377,Kingsgrove (South) - Bardwell Park,E08,0.25,nearest_boundary_sa2,117021326,5378
+119041378,Kogarah,E13,0.5,nearest_boundary_sa2,117021328,6088
+119041378,Kogarah,E12,0.5,nearest_boundary_sa2,117021328,6088
+119041379,Kogarah Bay - Carlton - Allawah,E13,0.5,nearest_boundary_sa2,117021328,7541
+119041379,Kogarah Bay - Carlton - Allawah,E12,0.5,nearest_boundary_sa2,117021328,7541
+119041380,Monterey - Brighton-le-Sands - Kyeemagh,E13,0.5,nearest_boundary_sa2,117021328,4817
+119041380,Monterey - Brighton-le-Sands - Kyeemagh,E12,0.5,nearest_boundary_sa2,117021328,4817
+119041381,Rockdale - Banksia,E13,0.5,nearest_boundary_sa2,117021328,4291
+119041381,Rockdale - Banksia,E12,0.5,nearest_boundary_sa2,117021328,4291
+119041382,Sans Souci - Ramsgate,E13,0.5,nearest_boundary_sa2,117021328,8544
+119041382,Sans Souci - Ramsgate,E12,0.5,nearest_boundary_sa2,117021328,8544
+120011383,Concord - Mortlake - Cabarita,E02,1.0,nearest_boundary_sa2,120021389,5831
+120011384,Concord West - North Strathfield,E01,1.0,nearest_boundary_sa2,121011400,7587
+120011385,Drummoyne - Rodd Point,E02,1.0,nearest_boundary_sa2,120021389,2139
+120011386,Five Dock - Abbotsford,E02,1.0,nearest_boundary_sa2,120021389,3549
+120021387,Balmain,E02,1.0,boundary,120021387,0
+120021388,Leichhardt - Annandale,E03,0.4,boundary,120021388,0
+120021388,Leichhardt - Annandale,E04,0.2,boundary,120021388,0
+120021388,Leichhardt - Annandale,E05,0.2,boundary,120021388,0
+120021388,Leichhardt - Annandale,E06,0.2,boundary,120021388,0
+120021389,Lilyfield - Rozelle,E02,1.0,boundary,120021389,0
+120031390,Ashfield,E10,0.2,nearest_boundary_sa2,117021327,3331
+120031390,Ashfield,E09,0.2,nearest_boundary_sa2,117021327,3331
+120031390,Ashfield,E08,0.2,nearest_boundary_sa2,117021327,3331
+120031390,Ashfield,E07,0.2,nearest_boundary_sa2,117021327,3331
+120031390,Ashfield,E06,0.2,nearest_boundary_sa2,117021327,3331
+120031391,Burwood - Croydon,E03,0.4,nearest_boundary_sa2,120021388,4789
+120031391,Burwood - Croydon,E04,0.2,nearest_boundary_sa2,120021388,4789
+120031391,Burwood - Croydon,E05,0.2,nearest_boundary_sa2,120021388,4789
+120031391,Burwood - Croydon,E06,0.2,nearest_boundary_sa2,120021388,4789
+120031392,Canterbury (North) - Ashbury,E11,0.25,nearest_boundary_sa2,117021326,3106
+120031392,Canterbury (North) - Ashbury,E10,0.25,nearest_boundary_sa2,117021326,3106
+120031392,Canterbury (North) - Ashbury,E09,0.25,nearest_boundary_sa2,117021326,3106
+120031392,Canterbury (North) - Ashbury,E08,0.25,nearest_boundary_sa2,117021326,3106
+120031393,Croydon Park - Enfield,E11,0.25,nearest_boundary_sa2,117021326,5205
+120031393,Croydon Park - Enfield,E10,0.25,nearest_boundary_sa2,117021326,5205
+120031393,Croydon Park - Enfield,E09,0.25,nearest_boundary_sa2,117021326,5205
+120031393,Croydon Park - Enfield,E08,0.25,nearest_boundary_sa2,117021326,5205
+120031394,Dulwich Hill - Lewisham,E11,0.25,nearest_boundary_sa2,117021326,1679
+120031394,Dulwich Hill - Lewisham,E10,0.25,nearest_boundary_sa2,117021326,1679
+120031394,Dulwich Hill - Lewisham,E09,0.25,nearest_boundary_sa2,117021326,1679
+120031394,Dulwich Hill - Lewisham,E08,0.25,nearest_boundary_sa2,117021326,1679
+120031395,Haberfield - Summer Hill,E03,0.4,nearest_boundary_sa2,120021388,2016
+120031395,Haberfield - Summer Hill,E04,0.2,nearest_boundary_sa2,120021388,2016
+120031395,Haberfield - Summer Hill,E05,0.2,nearest_boundary_sa2,120021388,2016
+120031395,Haberfield - Summer Hill,E06,0.2,nearest_boundary_sa2,120021388,2016
+120031396,Homebush,E03,0.4,nearest_boundary_sa2,120021388,8190
+120031396,Homebush,E04,0.2,nearest_boundary_sa2,120021388,8190
+120031396,Homebush,E05,0.2,nearest_boundary_sa2,120021388,8190
+120031396,Homebush,E06,0.2,nearest_boundary_sa2,120021388,8190
+120031575,Strathfield,E03,0.4,nearest_boundary_sa2,120021388,7339
+120031575,Strathfield,E04,0.2,nearest_boundary_sa2,120021388,7339
+120031575,Strathfield,E05,0.2,nearest_boundary_sa2,120021388,7339
+120031575,Strathfield,E06,0.2,nearest_boundary_sa2,120021388,7339
+120031576,Strathfield South,E11,0.25,nearest_boundary_sa2,117021326,7468
+120031576,Strathfield South,E10,0.25,nearest_boundary_sa2,117021326,7468
+120031576,Strathfield South,E09,0.25,nearest_boundary_sa2,117021326,7468
+120031576,Strathfield South,E08,0.25,nearest_boundary_sa2,117021326,7468
+121011398,Chatswood (East) - Artarmon,E01,1.0,nearest_boundary_sa2,121011400,3305
+121011399,Chatswood (West) - Lane Cove North,E01,1.0,nearest_boundary_sa2,121011400,2285
+121011400,Lane Cove - Greenwich,E01,1.0,boundary,121011400,0
+121011401,St Leonards - Naremburn,E01,1.0,nearest_boundary_sa2,121041414,1649
+121011402,Willoughby - Castle Cove - Northbridge,E01,1.0,nearest_boundary_sa2,121041413,3140
+121021403,Asquith - Mount Colah,E01,1.0,nearest_boundary_sa2,121011400,18491
+121021404,Berowra - Brooklyn - Cowan,E01,1.0,nearest_boundary_sa2,121011400,26514
+121021406,Normanhurst - Thornleigh - Westleigh,E01,1.0,nearest_boundary_sa2,121011400,13863
+121021577,Hornsby - East,E01,1.0,nearest_boundary_sa2,121011400,14522
+121021578,Hornsby - West,E01,1.0,nearest_boundary_sa2,121011400,15574
+121021579,Waitara - Wahroonga (West),E01,1.0,nearest_boundary_sa2,121011400,13446
+121031407,Gordon - Killara,E01,1.0,nearest_boundary_sa2,121011400,6812
+121031408,Lindfield - Roseville,E01,1.0,nearest_boundary_sa2,121011400,4963
+121031409,Pymble,E01,1.0,nearest_boundary_sa2,121011400,8281
+121031410,St Ives,E01,1.0,nearest_boundary_sa2,121011400,11219
+121031411,Turramurra,E01,1.0,nearest_boundary_sa2,121011400,12596
+121031412,Wahroonga (East) - Warrawee,E01,1.0,nearest_boundary_sa2,121011400,12469
+121041413,Cremorne - Cammeray,E01,1.0,boundary,121041413,0
+121041414,Crows Nest - Waverton,E01,1.0,boundary,121041414,0
+121041415,Mosman,E01,1.0,boundary,121041415,0
+121041416,Neutral Bay - Kirribilli,E01,1.0,nearest_boundary_sa2,121041417,980
+121041417,North Sydney - Lavender Bay,E01,1.0,boundary,121041417,0
+122011418,Balgowlah - Clontarf - Seaforth,E01,1.0,nearest_boundary_sa2,121041415,3579
+122011419,Manly - Fairlight,E01,1.0,nearest_boundary_sa2,121041415,4962
+122021420,Avalon - Palm Beach,E01,1.0,nearest_boundary_sa2,121041415,24576
+122021421,Bayview - Elanora Heights,E01,1.0,nearest_boundary_sa2,121041415,21877
+122021422,Newport - Bilgola,E01,1.0,nearest_boundary_sa2,121041415,20747
+122021423,Warriewood - Mona Vale,E01,1.0,nearest_boundary_sa2,121041415,16626
+122031424,Beacon Hill - Narraweena,E01,1.0,nearest_boundary_sa2,121041415,8831
+122031425,Cromer,E01,1.0,nearest_boundary_sa2,121041415,11028
+122031426,Dee Why - North Curl Curl,E01,1.0,nearest_boundary_sa2,121041415,9155
+122031427,Forestville - Killarney Heights,E01,1.0,nearest_boundary_sa2,121041413,6721
+122031428,Frenchs Forest - Belrose,E01,1.0,nearest_boundary_sa2,121041413,10494
+122031429,Freshwater - Brookvale,E01,1.0,nearest_boundary_sa2,121041415,7171
+122031430,Manly Vale - Allambie Heights,E01,1.0,nearest_boundary_sa2,121041415,6198
+122031431,Narrabeen - Collaroy,E01,1.0,nearest_boundary_sa2,121041415,11985
+122031432,Terrey Hills - Duffys Forest,E01,1.0,nearest_boundary_sa2,121011400,17421
+123011433,Camden - Ellis Lane,E11,0.25,nearest_boundary_sa2,117021326,46895
+123011433,Camden - Ellis Lane,E10,0.25,nearest_boundary_sa2,117021326,46895
+123011433,Camden - Ellis Lane,E09,0.25,nearest_boundary_sa2,117021326,46895
+123011433,Camden - Ellis Lane,E08,0.25,nearest_boundary_sa2,117021326,46895
+123011434,Elderslie - Harrington Park,E11,0.25,nearest_boundary_sa2,117021326,42140
+123011434,Elderslie - Harrington Park,E10,0.25,nearest_boundary_sa2,117021326,42140
+123011434,Elderslie - Harrington Park,E09,0.25,nearest_boundary_sa2,117021326,42140
+123011434,Elderslie - Harrington Park,E08,0.25,nearest_boundary_sa2,117021326,42140
+123011435,Mount Annan - Currans Hill,E11,0.25,nearest_boundary_sa2,117021326,40580
+123011435,Mount Annan - Currans Hill,E10,0.25,nearest_boundary_sa2,117021326,40580
+123011435,Mount Annan - Currans Hill,E09,0.25,nearest_boundary_sa2,117021326,40580
+123011435,Mount Annan - Currans Hill,E08,0.25,nearest_boundary_sa2,117021326,40580
+123021436,Bradbury - Wedderburn,E11,0.25,nearest_boundary_sa2,117021326,38979
+123021436,Bradbury - Wedderburn,E10,0.25,nearest_boundary_sa2,117021326,38979
+123021436,Bradbury - Wedderburn,E09,0.25,nearest_boundary_sa2,117021326,38979
+123021436,Bradbury - Wedderburn,E08,0.25,nearest_boundary_sa2,117021326,38979
+123021437,Campbelltown - Woodbine,E11,0.25,nearest_boundary_sa2,117021326,36286
+123021437,Campbelltown - Woodbine,E10,0.25,nearest_boundary_sa2,117021326,36286
+123021437,Campbelltown - Woodbine,E09,0.25,nearest_boundary_sa2,117021326,36286
+123021437,Campbelltown - Woodbine,E08,0.25,nearest_boundary_sa2,117021326,36286
+123021438,Claymore - Eagle Vale - Raby,E11,0.25,nearest_boundary_sa2,117021326,34567
+123021438,Claymore - Eagle Vale - Raby,E10,0.25,nearest_boundary_sa2,117021326,34567
+123021438,Claymore - Eagle Vale - Raby,E09,0.25,nearest_boundary_sa2,117021326,34567
+123021438,Claymore - Eagle Vale - Raby,E08,0.25,nearest_boundary_sa2,117021326,34567
+123021439,Holsworthy Military Area,E11,0.25,nearest_boundary_sa2,117021326,31612
+123021439,Holsworthy Military Area,E10,0.25,nearest_boundary_sa2,117021326,31612
+123021439,Holsworthy Military Area,E09,0.25,nearest_boundary_sa2,117021326,31612
+123021439,Holsworthy Military Area,E08,0.25,nearest_boundary_sa2,117021326,31612
+123021440,Ingleburn - Denham Court,E11,0.25,nearest_boundary_sa2,117021326,29501
+123021440,Ingleburn - Denham Court,E10,0.25,nearest_boundary_sa2,117021326,29501
+123021440,Ingleburn - Denham Court,E09,0.25,nearest_boundary_sa2,117021326,29501
+123021440,Ingleburn - Denham Court,E08,0.25,nearest_boundary_sa2,117021326,29501
+123021441,Leumeah - Minto Heights,E11,0.25,nearest_boundary_sa2,117021326,31467
+123021441,Leumeah - Minto Heights,E10,0.25,nearest_boundary_sa2,117021326,31467
+123021441,Leumeah - Minto Heights,E09,0.25,nearest_boundary_sa2,117021326,31467
+123021441,Leumeah - Minto Heights,E08,0.25,nearest_boundary_sa2,117021326,31467
+123021442,Macquarie Fields - Glenfield,E11,0.25,nearest_boundary_sa2,117021326,25514
+123021442,Macquarie Fields - Glenfield,E10,0.25,nearest_boundary_sa2,117021326,25514
+123021442,Macquarie Fields - Glenfield,E09,0.25,nearest_boundary_sa2,117021326,25514
+123021442,Macquarie Fields - Glenfield,E08,0.25,nearest_boundary_sa2,117021326,25514
+123021443,Minto - St Andrews,E11,0.25,nearest_boundary_sa2,117021326,31483
+123021443,Minto - St Andrews,E10,0.25,nearest_boundary_sa2,117021326,31483
+123021443,Minto - St Andrews,E09,0.25,nearest_boundary_sa2,117021326,31483
+123021443,Minto - St Andrews,E08,0.25,nearest_boundary_sa2,117021326,31483
+123021444,Rosemeadow - Glen Alpine,E11,0.25,nearest_boundary_sa2,117021326,42124
+123021444,Rosemeadow - Glen Alpine,E10,0.25,nearest_boundary_sa2,117021326,42124
+123021444,Rosemeadow - Glen Alpine,E09,0.25,nearest_boundary_sa2,117021326,42124
+123021444,Rosemeadow - Glen Alpine,E08,0.25,nearest_boundary_sa2,117021326,42124
+123031445,Bargo,E11,0.25,nearest_boundary_sa2,117021326,65092
+123031445,Bargo,E10,0.25,nearest_boundary_sa2,117021326,65092
+123031445,Bargo,E09,0.25,nearest_boundary_sa2,117021326,65092
+123031445,Bargo,E08,0.25,nearest_boundary_sa2,117021326,65092
+123031446,Douglas Park - Appin,E11,0.25,nearest_boundary_sa2,117021326,49430
+123031446,Douglas Park - Appin,E10,0.25,nearest_boundary_sa2,117021326,49430
+123031446,Douglas Park - Appin,E09,0.25,nearest_boundary_sa2,117021326,49430
+123031446,Douglas Park - Appin,E08,0.25,nearest_boundary_sa2,117021326,49430
+123031447,Picton - Tahmoor - Buxton,E11,0.25,nearest_boundary_sa2,117021326,64482
+123031447,Picton - Tahmoor - Buxton,E10,0.25,nearest_boundary_sa2,117021326,64482
+123031447,Picton - Tahmoor - Buxton,E09,0.25,nearest_boundary_sa2,117021326,64482
+123031447,Picton - Tahmoor - Buxton,E08,0.25,nearest_boundary_sa2,117021326,64482
+123031448,The Oaks - Oakdale,E11,0.25,nearest_boundary_sa2,117021326,58126
+123031448,The Oaks - Oakdale,E10,0.25,nearest_boundary_sa2,117021326,58126
+123031448,The Oaks - Oakdale,E09,0.25,nearest_boundary_sa2,117021326,58126
+123031448,The Oaks - Oakdale,E08,0.25,nearest_boundary_sa2,117021326,58126
+124011449,Blackheath - Megalong Valley,E01,1.0,nearest_boundary_sa2,121011400,86758
+124011450,Blaxland - Warrimoo - Lapstone,E01,1.0,nearest_boundary_sa2,121011400,51229
+124011451,Blue Mountains - North,E01,1.0,nearest_boundary_sa2,121011400,71062
+124011452,Katoomba - Leura,E01,1.0,nearest_boundary_sa2,121011400,80370
+124011453,Lawson - Hazelbrook - Linden,E01,1.0,nearest_boundary_sa2,121011400,66028
+124011454,Springwood - Winmalee,E01,1.0,nearest_boundary_sa2,121011400,54868
+124011455,Wentworth Falls,E01,1.0,nearest_boundary_sa2,121011400,73602
+124021456,Blue Mountains - South,E11,0.25,nearest_boundary_sa2,117021326,80544
+124021456,Blue Mountains - South,E10,0.25,nearest_boundary_sa2,117021326,80544
+124021456,Blue Mountains - South,E09,0.25,nearest_boundary_sa2,117021326,80544
+124021456,Blue Mountains - South,E08,0.25,nearest_boundary_sa2,117021326,80544
+124031457,Cambridge Park,E01,1.0,nearest_boundary_sa2,121011400,40920
+124031458,Castlereagh - Cranebrook,E01,1.0,nearest_boundary_sa2,121011400,44631
+124031459,Emu Plains - Leonay,E01,1.0,nearest_boundary_sa2,121011400,47728
+124031460,Glenmore Park - Regentville,E01,1.0,nearest_boundary_sa2,121011400,45393
+124031461,Jamisontown - South Penrith,E01,1.0,nearest_boundary_sa2,121011400,44500
+124031462,Kingswood - Werrington,E01,1.0,nearest_boundary_sa2,121011400,39908
+124031463,Mulgoa - Luddenham - Orchard Hills,E03,0.4,nearest_boundary_sa2,120021388,43835
+124031463,Mulgoa - Luddenham - Orchard Hills,E04,0.2,nearest_boundary_sa2,120021388,43835
+124031463,Mulgoa - Luddenham - Orchard Hills,E05,0.2,nearest_boundary_sa2,120021388,43835
+124031463,Mulgoa - Luddenham - Orchard Hills,E06,0.2,nearest_boundary_sa2,120021388,43835
+124031464,Penrith,E01,1.0,nearest_boundary_sa2,121011400,44183
+124031465,Warragamba - Silverdale,E11,0.25,nearest_boundary_sa2,117021326,51374
+124031465,Warragamba - Silverdale,E10,0.25,nearest_boundary_sa2,117021326,51374
+124031465,Warragamba - Silverdale,E09,0.25,nearest_boundary_sa2,117021326,51374
+124031465,Warragamba - Silverdale,E08,0.25,nearest_boundary_sa2,117021326,51374
+124041466,Richmond - Clarendon,E01,1.0,nearest_boundary_sa2,121011400,46437
+124041467,Windsor - Bligh Park,E01,1.0,nearest_boundary_sa2,121011400,39064
+124041468,Yarramundi - Londonderry,E01,1.0,nearest_boundary_sa2,121011400,44857
+124051469,Erskine Park,E01,1.0,nearest_boundary_sa2,121011400,34115
+124051470,St Clair,E01,1.0,nearest_boundary_sa2,121011400,35413
+124051580,Colyton - Oxley Park,E01,1.0,nearest_boundary_sa2,121011400,34561
+124051581,St Marys - North St Marys,E01,1.0,nearest_boundary_sa2,121011400,36867
+125011473,Homebush Bay - Silverwater,E01,1.0,nearest_boundary_sa2,121011400,9872
+125011475,Rookwood Cemetery,E03,0.4,nearest_boundary_sa2,120021388,9763
+125011475,Rookwood Cemetery,E04,0.2,nearest_boundary_sa2,120021388,9763
+125011475,Rookwood Cemetery,E05,0.2,nearest_boundary_sa2,120021388,9763
+125011475,Rookwood Cemetery,E06,0.2,nearest_boundary_sa2,120021388,9763
+125011582,Auburn - Central,E03,0.4,nearest_boundary_sa2,120021388,12971
+125011582,Auburn - Central,E04,0.2,nearest_boundary_sa2,120021388,12971
+125011582,Auburn - Central,E05,0.2,nearest_boundary_sa2,120021388,12971
+125011582,Auburn - Central,E06,0.2,nearest_boundary_sa2,120021388,12971
+125011583,Auburn - North,E01,1.0,nearest_boundary_sa2,121011400,12599
+125011584,Auburn - South,E03,0.4,nearest_boundary_sa2,120021388,13024
+125011584,Auburn - South,E04,0.2,nearest_boundary_sa2,120021388,13024
+125011584,Auburn - South,E05,0.2,nearest_boundary_sa2,120021388,13024
+125011584,Auburn - South,E06,0.2,nearest_boundary_sa2,120021388,13024
+125011585,Berala,E03,0.4,nearest_boundary_sa2,120021388,11779
+125011585,Berala,E04,0.2,nearest_boundary_sa2,120021388,11779
+125011585,Berala,E05,0.2,nearest_boundary_sa2,120021388,11779
+125011585,Berala,E06,0.2,nearest_boundary_sa2,120021388,11779
+125011586,Lidcombe,E03,0.4,nearest_boundary_sa2,120021388,10782
+125011586,Lidcombe,E04,0.2,nearest_boundary_sa2,120021388,10782
+125011586,Lidcombe,E05,0.2,nearest_boundary_sa2,120021388,10782
+125011586,Lidcombe,E06,0.2,nearest_boundary_sa2,120021388,10782
+125011587,Regents Park,E11,0.25,nearest_boundary_sa2,117021326,12340
+125011587,Regents Park,E10,0.25,nearest_boundary_sa2,117021326,12340
+125011587,Regents Park,E09,0.25,nearest_boundary_sa2,117021326,12340
+125011587,Regents Park,E08,0.25,nearest_boundary_sa2,117021326,12340
+125021476,Carlingford,E01,1.0,nearest_boundary_sa2,121011400,12285
+125021477,Ermington - Rydalmere,E01,1.0,nearest_boundary_sa2,121011400,10834
+125021478,Oatlands - Dundas Valley,E01,1.0,nearest_boundary_sa2,121011400,12150
+125031479,Chester Hill - Sefton,E11,0.25,nearest_boundary_sa2,117021326,14878
+125031479,Chester Hill - Sefton,E10,0.25,nearest_boundary_sa2,117021326,14878
+125031479,Chester Hill - Sefton,E09,0.25,nearest_boundary_sa2,117021326,14878
+125031479,Chester Hill - Sefton,E08,0.25,nearest_boundary_sa2,117021326,14878
+125031480,Fairfield - East,E11,0.25,nearest_boundary_sa2,117021326,17351
+125031480,Fairfield - East,E10,0.25,nearest_boundary_sa2,117021326,17351
+125031480,Fairfield - East,E09,0.25,nearest_boundary_sa2,117021326,17351
+125031480,Fairfield - East,E08,0.25,nearest_boundary_sa2,117021326,17351
+125031481,Granville - Clyde,E01,1.0,nearest_boundary_sa2,121011400,14837
+125031482,Greystanes - Pemulwuy,E01,1.0,nearest_boundary_sa2,121011400,21194
+125031483,Guildford - South Granville,E03,0.4,nearest_boundary_sa2,120021388,14885
+125031483,Guildford - South Granville,E04,0.2,nearest_boundary_sa2,120021388,14885
+125031483,Guildford - South Granville,E05,0.2,nearest_boundary_sa2,120021388,14885
+125031483,Guildford - South Granville,E06,0.2,nearest_boundary_sa2,120021388,14885
+125031484,Guildford West - Merrylands West,E03,0.4,nearest_boundary_sa2,120021388,18093
+125031484,Guildford West - Merrylands West,E04,0.2,nearest_boundary_sa2,120021388,18093
+125031484,Guildford West - Merrylands West,E05,0.2,nearest_boundary_sa2,120021388,18093
+125031484,Guildford West - Merrylands West,E06,0.2,nearest_boundary_sa2,120021388,18093
+125031485,Merrylands - Holroyd,E01,1.0,nearest_boundary_sa2,121011400,17284
+125031486,Smithfield Industrial,E03,0.4,nearest_boundary_sa2,120021388,20489
+125031486,Smithfield Industrial,E04,0.2,nearest_boundary_sa2,120021388,20489
+125031486,Smithfield Industrial,E05,0.2,nearest_boundary_sa2,120021388,20489
+125031486,Smithfield Industrial,E06,0.2,nearest_boundary_sa2,120021388,20489
+125031487,Yennora Industrial,E03,0.4,nearest_boundary_sa2,120021388,18121
+125031487,Yennora Industrial,E04,0.2,nearest_boundary_sa2,120021388,18121
+125031487,Yennora Industrial,E05,0.2,nearest_boundary_sa2,120021388,18121
+125031487,Yennora Industrial,E06,0.2,nearest_boundary_sa2,120021388,18121
+125041489,North Parramatta,E01,1.0,nearest_boundary_sa2,121011400,14528
+125041490,North Rocks,E01,1.0,nearest_boundary_sa2,121011400,14884
+125041491,Northmead,E01,1.0,nearest_boundary_sa2,121011400,16363
+125041492,Parramatta - Rosehill,E01,1.0,nearest_boundary_sa2,121011400,13827
+125041493,Toongabbie - Constitution Hill,E01,1.0,nearest_boundary_sa2,121011400,18738
+125041494,Winston Hills,E01,1.0,nearest_boundary_sa2,121011400,18100
+125041588,Pendle Hill - Girraween,E01,1.0,nearest_boundary_sa2,121011400,20330
+125041589,Wentworthville - Westmead,E01,1.0,nearest_boundary_sa2,121011400,17560
+126011495,Epping - North Epping,E01,1.0,nearest_boundary_sa2,121011400,9830
+126011496,Pennant Hills - Cheltenham,E01,1.0,nearest_boundary_sa2,121011400,12514
+126021497,Eastwood - Denistone,E01,1.0,nearest_boundary_sa2,121011400,8203
+126021498,Gladesville - Huntleys Point,E01,1.0,nearest_boundary_sa2,121011400,3704
+126021499,Hunters Hill - Woolwich,E01,1.0,nearest_boundary_sa2,121011400,2000
+126021500,Macquarie Park - Marsfield,E01,1.0,nearest_boundary_sa2,121011400,6531
+126021501,North Ryde - East Ryde,E01,1.0,nearest_boundary_sa2,121011400,4156
+126021503,West Ryde - Meadowbank,E01,1.0,nearest_boundary_sa2,121011400,7803
+126021590,Putney,E01,1.0,nearest_boundary_sa2,121011400,5617
+126021591,Ryde,E01,1.0,nearest_boundary_sa2,121011400,5206
+127011504,Ashcroft - Busby - Miller,E11,0.25,nearest_boundary_sa2,117021326,24742
+127011504,Ashcroft - Busby - Miller,E10,0.25,nearest_boundary_sa2,117021326,24742
+127011504,Ashcroft - Busby - Miller,E09,0.25,nearest_boundary_sa2,117021326,24742
+127011504,Ashcroft - Busby - Miller,E08,0.25,nearest_boundary_sa2,117021326,24742
+127011505,Austral - Greendale,E11,0.25,nearest_boundary_sa2,117021326,38306
+127011505,Austral - Greendale,E10,0.25,nearest_boundary_sa2,117021326,38306
+127011505,Austral - Greendale,E09,0.25,nearest_boundary_sa2,117021326,38306
+127011505,Austral - Greendale,E08,0.25,nearest_boundary_sa2,117021326,38306
+127011506,Cobbitty - Leppington,E11,0.25,nearest_boundary_sa2,117021326,40166
+127011506,Cobbitty - Leppington,E10,0.25,nearest_boundary_sa2,117021326,40166
+127011506,Cobbitty - Leppington,E09,0.25,nearest_boundary_sa2,117021326,40166
+127011506,Cobbitty - Leppington,E08,0.25,nearest_boundary_sa2,117021326,40166
+127011592,Badgerys Creek,E11,0.25,nearest_boundary_sa2,117021326,40183
+127011592,Badgerys Creek,E10,0.25,nearest_boundary_sa2,117021326,40183
+127011592,Badgerys Creek,E09,0.25,nearest_boundary_sa2,117021326,40183
+127011592,Badgerys Creek,E08,0.25,nearest_boundary_sa2,117021326,40183
+127011593,Cecil Hills,E11,0.25,nearest_boundary_sa2,117021326,28481
+127011593,Cecil Hills,E10,0.25,nearest_boundary_sa2,117021326,28481
+127011593,Cecil Hills,E09,0.25,nearest_boundary_sa2,117021326,28481
+127011593,Cecil Hills,E08,0.25,nearest_boundary_sa2,117021326,28481
+127011594,Green Valley,E11,0.25,nearest_boundary_sa2,117021326,26631
+127011594,Green Valley,E10,0.25,nearest_boundary_sa2,117021326,26631
+127011594,Green Valley,E09,0.25,nearest_boundary_sa2,117021326,26631
+127011594,Green Valley,E08,0.25,nearest_boundary_sa2,117021326,26631
+127011595,Hinchinbrook,E11,0.25,nearest_boundary_sa2,117021326,27397
+127011595,Hinchinbrook,E10,0.25,nearest_boundary_sa2,117021326,27397
+127011595,Hinchinbrook,E09,0.25,nearest_boundary_sa2,117021326,27397
+127011595,Hinchinbrook,E08,0.25,nearest_boundary_sa2,117021326,27397
+127011596,Hoxton Park - Carnes Hill - Horningsea Park,E11,0.25,nearest_boundary_sa2,117021326,28290
+127011596,Hoxton Park - Carnes Hill - Horningsea Park,E10,0.25,nearest_boundary_sa2,117021326,28290
+127011596,Hoxton Park - Carnes Hill - Horningsea Park,E09,0.25,nearest_boundary_sa2,117021326,28290
+127011596,Hoxton Park - Carnes Hill - Horningsea Park,E08,0.25,nearest_boundary_sa2,117021326,28290
+127011597,West Hoxton - Middleton Grange,E11,0.25,nearest_boundary_sa2,117021326,29621
+127011597,West Hoxton - Middleton Grange,E10,0.25,nearest_boundary_sa2,117021326,29621
+127011597,West Hoxton - Middleton Grange,E09,0.25,nearest_boundary_sa2,117021326,29621
+127011597,West Hoxton - Middleton Grange,E08,0.25,nearest_boundary_sa2,117021326,29621
+127021509,Bonnyrigg Heights - Bonnyrigg,E11,0.25,nearest_boundary_sa2,117021326,25411
+127021509,Bonnyrigg Heights - Bonnyrigg,E10,0.25,nearest_boundary_sa2,117021326,25411
+127021509,Bonnyrigg Heights - Bonnyrigg,E09,0.25,nearest_boundary_sa2,117021326,25411
+127021509,Bonnyrigg Heights - Bonnyrigg,E08,0.25,nearest_boundary_sa2,117021326,25411
+127021510,Bossley Park - Abbotsbury,E11,0.25,nearest_boundary_sa2,117021326,26639
+127021510,Bossley Park - Abbotsbury,E10,0.25,nearest_boundary_sa2,117021326,26639
+127021510,Bossley Park - Abbotsbury,E09,0.25,nearest_boundary_sa2,117021326,26639
+127021510,Bossley Park - Abbotsbury,E08,0.25,nearest_boundary_sa2,117021326,26639
+127021511,Cabramatta - Lansvale,E11,0.25,nearest_boundary_sa2,117021326,19382
+127021511,Cabramatta - Lansvale,E10,0.25,nearest_boundary_sa2,117021326,19382
+127021511,Cabramatta - Lansvale,E09,0.25,nearest_boundary_sa2,117021326,19382
+127021511,Cabramatta - Lansvale,E08,0.25,nearest_boundary_sa2,117021326,19382
+127021512,Cabramatta West - Mount Pritchard,E11,0.25,nearest_boundary_sa2,117021326,22909
+127021512,Cabramatta West - Mount Pritchard,E10,0.25,nearest_boundary_sa2,117021326,22909
+127021512,Cabramatta West - Mount Pritchard,E09,0.25,nearest_boundary_sa2,117021326,22909
+127021512,Cabramatta West - Mount Pritchard,E08,0.25,nearest_boundary_sa2,117021326,22909
+127021513,Canley Vale - Canley Heights,E11,0.25,nearest_boundary_sa2,117021326,20458
+127021513,Canley Vale - Canley Heights,E10,0.25,nearest_boundary_sa2,117021326,20458
+127021513,Canley Vale - Canley Heights,E09,0.25,nearest_boundary_sa2,117021326,20458
+127021513,Canley Vale - Canley Heights,E08,0.25,nearest_boundary_sa2,117021326,20458
+127021514,Edensor Park,E11,0.25,nearest_boundary_sa2,117021326,25877
+127021514,Edensor Park,E10,0.25,nearest_boundary_sa2,117021326,25877
+127021514,Edensor Park,E09,0.25,nearest_boundary_sa2,117021326,25877
+127021514,Edensor Park,E08,0.25,nearest_boundary_sa2,117021326,25877
+127021515,Fairfield,E11,0.25,nearest_boundary_sa2,117021326,19321
+127021515,Fairfield,E10,0.25,nearest_boundary_sa2,117021326,19321
+127021515,Fairfield,E09,0.25,nearest_boundary_sa2,117021326,19321
+127021515,Fairfield,E08,0.25,nearest_boundary_sa2,117021326,19321
+127021516,Fairfield - West,E11,0.25,nearest_boundary_sa2,117021326,21394
+127021516,Fairfield - West,E10,0.25,nearest_boundary_sa2,117021326,21394
+127021516,Fairfield - West,E09,0.25,nearest_boundary_sa2,117021326,21394
+127021516,Fairfield - West,E08,0.25,nearest_boundary_sa2,117021326,21394
+127021517,Greenfield Park - Prairiewood,E11,0.25,nearest_boundary_sa2,117021326,24102
+127021517,Greenfield Park - Prairiewood,E10,0.25,nearest_boundary_sa2,117021326,24102
+127021517,Greenfield Park - Prairiewood,E09,0.25,nearest_boundary_sa2,117021326,24102
+127021517,Greenfield Park - Prairiewood,E08,0.25,nearest_boundary_sa2,117021326,24102
+127021518,Horsley Park - Kemps Creek,E03,0.4,nearest_boundary_sa2,120021388,31670
+127021518,Horsley Park - Kemps Creek,E04,0.2,nearest_boundary_sa2,120021388,31670
+127021518,Horsley Park - Kemps Creek,E05,0.2,nearest_boundary_sa2,120021388,31670
+127021518,Horsley Park - Kemps Creek,E06,0.2,nearest_boundary_sa2,120021388,31670
+127021519,Smithfield - Wetherill Park,E03,0.4,nearest_boundary_sa2,120021388,21972
+127021519,Smithfield - Wetherill Park,E04,0.2,nearest_boundary_sa2,120021388,21972
+127021519,Smithfield - Wetherill Park,E05,0.2,nearest_boundary_sa2,120021388,21972
+127021519,Smithfield - Wetherill Park,E06,0.2,nearest_boundary_sa2,120021388,21972
+127021520,St Johns Park - Wakeley,E11,0.25,nearest_boundary_sa2,117021326,23365
+127021520,St Johns Park - Wakeley,E10,0.25,nearest_boundary_sa2,117021326,23365
+127021520,St Johns Park - Wakeley,E09,0.25,nearest_boundary_sa2,117021326,23365
+127021520,St Johns Park - Wakeley,E08,0.25,nearest_boundary_sa2,117021326,23365
+127021521,Wetherill Park Industrial,E03,0.4,nearest_boundary_sa2,120021388,24658
+127021521,Wetherill Park Industrial,E04,0.2,nearest_boundary_sa2,120021388,24658
+127021521,Wetherill Park Industrial,E05,0.2,nearest_boundary_sa2,120021388,24658
+127021521,Wetherill Park Industrial,E06,0.2,nearest_boundary_sa2,120021388,24658
+127031522,Casula,E11,0.25,nearest_boundary_sa2,117021326,24059
+127031522,Casula,E10,0.25,nearest_boundary_sa2,117021326,24059
+127031522,Casula,E09,0.25,nearest_boundary_sa2,117021326,24059
+127031522,Casula,E08,0.25,nearest_boundary_sa2,117021326,24059
+127031523,Chipping Norton - Moorebank,E11,0.25,nearest_boundary_sa2,117021326,18767
+127031523,Chipping Norton - Moorebank,E10,0.25,nearest_boundary_sa2,117021326,18767
+127031523,Chipping Norton - Moorebank,E09,0.25,nearest_boundary_sa2,117021326,18767
+127031523,Chipping Norton - Moorebank,E08,0.25,nearest_boundary_sa2,117021326,18767
+127031524,Holsworthy - Wattle Grove,E11,0.25,nearest_boundary_sa2,117021326,21450
+127031524,Holsworthy - Wattle Grove,E10,0.25,nearest_boundary_sa2,117021326,21450
+127031524,Holsworthy - Wattle Grove,E09,0.25,nearest_boundary_sa2,117021326,21450
+127031524,Holsworthy - Wattle Grove,E08,0.25,nearest_boundary_sa2,117021326,21450
+127031598,Liverpool,E11,0.25,nearest_boundary_sa2,117021326,22163
+127031598,Liverpool,E10,0.25,nearest_boundary_sa2,117021326,22163
+127031598,Liverpool,E09,0.25,nearest_boundary_sa2,117021326,22163
+127031598,Liverpool,E08,0.25,nearest_boundary_sa2,117021326,22163
+127031599,Lurnea - Cartwright,E11,0.25,nearest_boundary_sa2,117021326,24164
+127031599,Lurnea - Cartwright,E10,0.25,nearest_boundary_sa2,117021326,24164
+127031599,Lurnea - Cartwright,E09,0.25,nearest_boundary_sa2,117021326,24164
+127031599,Lurnea - Cartwright,E08,0.25,nearest_boundary_sa2,117021326,24164
+127031600,Prestons - Edmondson Park,E11,0.25,nearest_boundary_sa2,117021326,26954
+127031600,Prestons - Edmondson Park,E10,0.25,nearest_boundary_sa2,117021326,26954
+127031600,Prestons - Edmondson Park,E09,0.25,nearest_boundary_sa2,117021326,26954
+127031600,Prestons - Edmondson Park,E08,0.25,nearest_boundary_sa2,117021326,26954
+127031601,Warwick Farm,E11,0.25,nearest_boundary_sa2,117021326,20168
+127031601,Warwick Farm,E10,0.25,nearest_boundary_sa2,117021326,20168
+127031601,Warwick Farm,E09,0.25,nearest_boundary_sa2,117021326,20168
+127031601,Warwick Farm,E08,0.25,nearest_boundary_sa2,117021326,20168
+128011529,Gymea - Grays Point,E13,0.5,nearest_boundary_sa2,117021328,15952
+128011529,Gymea - Grays Point,E12,0.5,nearest_boundary_sa2,117021328,15952
+128011530,Miranda - Yowie Bay,E13,0.5,nearest_boundary_sa2,117021328,14213
+128011530,Miranda - Yowie Bay,E12,0.5,nearest_boundary_sa2,117021328,14213
+128011531,Sylvania - Taren Point,E13,0.5,nearest_boundary_sa2,117021328,12030
+128011531,Sylvania - Taren Point,E12,0.5,nearest_boundary_sa2,117021328,12030
+128011602,Caringbah,E13,0.5,nearest_boundary_sa2,117021328,13574
+128011602,Caringbah,E12,0.5,nearest_boundary_sa2,117021328,13574
+128011603,Caringbah South,E13,0.5,nearest_boundary_sa2,117021328,15545
+128011603,Caringbah South,E12,0.5,nearest_boundary_sa2,117021328,15545
+128011604,Cronulla - Kurnell - Bundeena,E17,0.25,nearest_boundary_sa2,117011322,11481
+128011604,Cronulla - Kurnell - Bundeena,E16,0.25,nearest_boundary_sa2,117011322,11481
+128011604,Cronulla - Kurnell - Bundeena,E15,0.25,nearest_boundary_sa2,117011322,11481
+128011604,Cronulla - Kurnell - Bundeena,E14,0.25,nearest_boundary_sa2,117011322,11481
+128011605,Lilli Pilli - Port Hacking - Dolans Bay,E13,0.5,nearest_boundary_sa2,117021328,16913
+128011605,Lilli Pilli - Port Hacking - Dolans Bay,E12,0.5,nearest_boundary_sa2,117021328,16913
+128011606,Woolaware - Burraneer,E17,0.25,nearest_boundary_sa2,117011322,14797
+128011606,Woolaware - Burraneer,E16,0.25,nearest_boundary_sa2,117011322,14797
+128011606,Woolaware - Burraneer,E15,0.25,nearest_boundary_sa2,117011322,14797
+128011606,Woolaware - Burraneer,E14,0.25,nearest_boundary_sa2,117011322,14797
+128021533,Heathcote - Waterfall,E13,0.5,nearest_boundary_sa2,117021328,27038
+128021533,Heathcote - Waterfall,E12,0.5,nearest_boundary_sa2,117021328,27038
+128021534,Illawong - Alfords Point,E11,0.25,nearest_boundary_sa2,117021326,14574
+128021534,Illawong - Alfords Point,E10,0.25,nearest_boundary_sa2,117021326,14574
+128021534,Illawong - Alfords Point,E09,0.25,nearest_boundary_sa2,117021326,14574
+128021534,Illawong - Alfords Point,E08,0.25,nearest_boundary_sa2,117021326,14574
+128021535,Menai - Lucas Heights - Woronora,E11,0.25,nearest_boundary_sa2,117021326,18843
+128021535,Menai - Lucas Heights - Woronora,E10,0.25,nearest_boundary_sa2,117021326,18843
+128021535,Menai - Lucas Heights - Woronora,E09,0.25,nearest_boundary_sa2,117021326,18843
+128021535,Menai - Lucas Heights - Woronora,E08,0.25,nearest_boundary_sa2,117021326,18843
+128021536,Oyster Bay - Como - Jannali,E11,0.25,nearest_boundary_sa2,117021326,13531
+128021536,Oyster Bay - Como - Jannali,E10,0.25,nearest_boundary_sa2,117021326,13531
+128021536,Oyster Bay - Como - Jannali,E09,0.25,nearest_boundary_sa2,117021326,13531
+128021536,Oyster Bay - Como - Jannali,E08,0.25,nearest_boundary_sa2,117021326,13531
+128021537,Royal National Park,E13,0.5,nearest_boundary_sa2,117021328,23224
+128021537,Royal National Park,E12,0.5,nearest_boundary_sa2,117021328,23224
+128021538,Sutherland - Kirrawee,E13,0.5,nearest_boundary_sa2,117021328,15767
+128021538,Sutherland - Kirrawee,E12,0.5,nearest_boundary_sa2,117021328,15767
+128021607,Engadine,E11,0.25,nearest_boundary_sa2,117021326,20638
+128021607,Engadine,E10,0.25,nearest_boundary_sa2,117021326,20638
+128021607,Engadine,E09,0.25,nearest_boundary_sa2,117021326,20638
+128021607,Engadine,E08,0.25,nearest_boundary_sa2,117021326,20638
+128021608,Loftus - Yarrawarrah,E13,0.5,nearest_boundary_sa2,117021328,18744
+128021608,Loftus - Yarrawarrah,E12,0.5,nearest_boundary_sa2,117021328,18744
+128021609,Woronora Heights,E11,0.25,nearest_boundary_sa2,117021326,17945
+128021609,Woronora Heights,E10,0.25,nearest_boundary_sa2,117021326,17945
+128021609,Woronora Heights,E09,0.25,nearest_boundary_sa2,117021326,17945
+128021609,Woronora Heights,E08,0.25,nearest_boundary_sa2,117021326,17945

@@ -1,0 +1,12 @@
+# Core scientific stack for the Sydney bicycle demand model (Python 3.11+).
+# Pin versions to match your working environment if you need strict reproducibility.
+numpy
+pandas
+geopandas
+shapely
+osmnx
+networkx
+scipy
+rasterio
+matplotlib
+jupyter
